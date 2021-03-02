@@ -49,6 +49,18 @@ STIX states the what of threat intelligence, while TAXII defines how that inform
 
 <br/>
 
+### # MITRE ATT&CK®
+
+> https://attack.mitre.org/
+
+MITRE ATT&CK® is a globally-accessible knowledge base of adversary tactics and techniques based on real-world observations.
+
+The ATT&CK knowledge base is used as a foundation for the development of specific threat models and methodologies in the private sector, in government, and in the cybersecurity product and service community.
+
+<br/>
+
+<br/>
+
 ### # KakaoBrain PORORO (Platform Of neuRal mOdels for natuRal language prOcessing)
 
 `pororo` performs Natural Language Processing and Speech-related tasks.
@@ -56,3 +68,10 @@ STIX states the what of threat intelligence, while TAXII defines how that inform
 It is easy to solve various subtasks in the natural language and speech processing field by simply passing the task name.
 
 <br/>
+
+<br/>
+
+### # Get faster pandas with Modin
+
+![image-20210302215310525](C:\Users\PC\Desktop\Workspace\CTI_with_NLP\README.assets\image-20210302215310525.png)
+

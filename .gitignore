@@ -1,4 +1,9 @@
 /.vscode
+/.ipynb_checkpoints
+
+/dask-worker-space
+
 /venv
+/dataset
 /pororo
 /fairseq
