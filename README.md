@@ -75,3 +75,15 @@ It is easy to solve various subtasks in the natural language and speech processi
 
 ![image-20210302215310525](C:\Users\PC\Desktop\Workspace\CTI_with_NLP\README.assets\image-20210302215310525.png)
 
+<br/>
+
+<br/>
+
+### # MongoDB
+
+```
+> mongod -dbpath
+```
+
+![image-20210303004103399](C:\Users\PC\Desktop\Workspace\CTI_with_NLP\README.assets\image-20210303004103399.png)
+

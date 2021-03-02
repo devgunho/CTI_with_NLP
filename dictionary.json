@@ -1,0 +1,327 @@
+{
+	"admin@338": {
+		"id": 1,
+		"mitre": [
+			{
+				"domain": "Enterprise",
+				"mitre_id": "T1071.001",
+				"description": "admin@338 is a China-based cyber threat group. It has previously used newsworthy events as lures to deliver malware and has primarily targeted organizations involved in financial, economic, and trade policy, typically using publicly available RATs such as PoisonIvy, as well as some non-public backdoors."
+			}
+		],
+		"pos": "part of speech",
+		"nltk-ner": "ORGANIZATION",
+		"pororo-ner": "PERSON"
+	},
+	"APT-C-36": {
+		"id": 2,
+		"mitre": [
+			{
+				"domain": "Enterprise",
+				"mitre_id": "T1071.001",
+				"description": "admin@338 is a China-based cyber threat group. It has previously used newsworthy events as lures to deliver malware and has primarily targeted organizations involved in financial, economic, and trade policy, typically using publicly available RATs such as PoisonIvy, as well as some non-public backdoors."
+			}
+		],
+		"pos": "part of speech",
+		"nltk-ner": "ORGANIZATION",
+		"pororo-ner": "PERSON"
+	},
+	"APT1": {
+		"id": 3,
+		"mitre": [
+			{
+				"domain": "Enterprise",
+				"mitre_id": "T1071.001",
+				"description": "admin@338 is a China-based cyber threat group. It has previously used newsworthy events as lures to deliver malware and has primarily targeted organizations involved in financial, economic, and trade policy, typically using publicly available RATs such as PoisonIvy, as well as some non-public backdoors."
+			}
+		],
+		"pos": "part of speech",
+		"nltk-ner": "ORGANIZATION",
+		"pororo-ner": "PERSON"
+	},
+	"APT12": {
+		"id": 4,
+		"mitre": [
+			{
+				"domain": "Enterprise",
+				"mitre_id": "T1071.001",
+				"description": "admin@338 is a China-based cyber threat group. It has previously used newsworthy events as lures to deliver malware and has primarily targeted organizations involved in financial, economic, and trade policy, typically using publicly available RATs such as PoisonIvy, as well as some non-public backdoors."
+			}
+		],
+		"pos": "part of speech",
+		"nltk-ner": "ORGANIZATION",
+		"pororo-ner": "PERSON"
+	},
+	"APT16": {
+		"id": 5,
+		"mitre": [
+			{
+				"domain": "Enterprise",
+				"mitre_id": "T1071.001",
+				"description": "admin@338 is a China-based cyber threat group. It has previously used newsworthy events as lures to deliver malware and has primarily targeted organizations involved in financial, economic, and trade policy, typically using publicly available RATs such as PoisonIvy, as well as some non-public backdoors."
+			}
+		],
+		"pos": "part of speech",
+		"nltk-ner": "ORGANIZATION",
+		"pororo-ner": "PERSON"
+	},
+	"BITS Jobs": {
+		"id": 6,
+		"mitre": [
+			{
+				"domain": "Enterprise",
+				"mitre_id": "T1071.001",
+				"description": "admin@338 is a China-based cyber threat group. It has previously used newsworthy events as lures to deliver malware and has primarily targeted organizations involved in financial, economic, and trade policy, typically using publicly available RATs such as PoisonIvy, as well as some non-public backdoors."
+			}
+		],
+		"pos": "part of speech",
+		"nltk-ner": "ORGANIZATION",
+		"pororo-ner": "PERSON"
+	},
+	"Multi-factor Authentication": {
+		"id": 7,
+		"mitre": [
+			{
+				"domain": "Enterprise",
+				"mitre_id": "T1071.001",
+				"description": "admin@338 is a China-based cyber threat group. It has previously used newsworthy events as lures to deliver malware and has primarily targeted organizations involved in financial, economic, and trade policy, typically using publicly available RATs such as PoisonIvy, as well as some non-public backdoors."
+			}
+		],
+		"pos": "part of speech",
+		"nltk-ner": "ORGANIZATION",
+		"pororo-ner": "PERSON"
+	},
+	"Network Segmentation": {
+		"id": 8,
+		"mitre": [
+			{
+				"domain": "Enterprise",
+				"mitre_id": "T1071.001",
+				"description": "admin@338 is a China-based cyber threat group. It has previously used newsworthy events as lures to deliver malware and has primarily targeted organizations involved in financial, economic, and trade policy, typically using publicly available RATs such as PoisonIvy, as well as some non-public backdoors."
+			}
+		],
+		"pos": "part of speech",
+		"nltk-ner": "ORGANIZATION",
+		"pororo-ner": "PERSON"
+	},
+	"Boot Integrity": {
+		"id": 9,
+		"mitre": [
+			{
+				"domain": "Enterprise",
+				"mitre_id": "T1071.001",
+				"description": "admin@338 is a China-based cyber threat group. It has previously used newsworthy events as lures to deliver malware and has primarily targeted organizations involved in financial, economic, and trade policy, typically using publicly available RATs such as PoisonIvy, as well as some non-public backdoors."
+			}
+		],
+		"pos": "part of speech",
+		"nltk-ner": "ORGANIZATION",
+		"pororo-ner": "PERSON"
+	},
+	"Abuse Elevation Control Mechanism": {
+		"id": 10,
+		"mitre": [
+			{
+				"domain": "Enterprise",
+				"mitre_id": "T1071.001",
+				"description": "admin@338 is a China-based cyber threat group. It has previously used newsworthy events as lures to deliver malware and has primarily targeted organizations involved in financial, economic, and trade policy, typically using publicly available RATs such as PoisonIvy, as well as some non-public backdoors."
+			}
+		],
+		"pos": "part of speech",
+		"nltk-ner": "ORGANIZATION",
+		"pororo-ner": "PERSON"
+	},
+	"Pupy": {
+		"id": 11,
+		"mitre": [
+			{
+				"domain": "Enterprise",
+				"mitre_id": "T1071.001",
+				"description": "admin@338 is a China-based cyber threat group. It has previously used newsworthy events as lures to deliver malware and has primarily targeted organizations involved in financial, economic, and trade policy, typically using publicly available RATs such as PoisonIvy, as well as some non-public backdoors."
+			}
+		],
+		"pos": "part of speech",
+		"nltk-ner": "ORGANIZATION",
+		"pororo-ner": "PERSON"
+	},
+	"Okrum": {
+		"id": 12,
+		"mitre": [
+			{
+				"domain": "Enterprise",
+				"mitre_id": "T1071.001",
+				"description": "admin@338 is a China-based cyber threat group. It has previously used newsworthy events as lures to deliver malware and has primarily targeted organizations involved in financial, economic, and trade policy, typically using publicly available RATs such as PoisonIvy, as well as some non-public backdoors."
+			}
+		],
+		"pos": "part of speech",
+		"nltk-ner": "ORGANIZATION",
+		"pororo-ner": "PERSON"
+	},
+	"FinFisher": {
+		"id": 13,
+		"mitre": [
+			{
+				"domain": "Enterprise",
+				"mitre_id": "T1071.001",
+				"description": "admin@338 is a China-based cyber threat group. It has previously used newsworthy events as lures to deliver malware and has primarily targeted organizations involved in financial, economic, and trade policy, typically using publicly available RATs such as PoisonIvy, as well as some non-public backdoors."
+			}
+		],
+		"pos": "part of speech",
+		"nltk-ner": "ORGANIZATION",
+		"pororo-ner": "PERSON"
+	},
+	"Shamoon": {
+		"id": 14,
+		"mitre": [
+			{
+				"domain": "Enterprise",
+				"mitre_id": "T1071.001",
+				"description": "admin@338 is a China-based cyber threat group. It has previously used newsworthy events as lures to deliver malware and has primarily targeted organizations involved in financial, economic, and trade policy, typically using publicly available RATs such as PoisonIvy, as well as some non-public backdoors."
+			}
+		],
+		"pos": "part of speech",
+		"nltk-ner": "ORGANIZATION",
+		"pororo-ner": "PERSON"
+	},
+	"Mimikatz": {
+		"id": 15,
+		"mitre": [
+			{
+				"domain": "Enterprise",
+				"mitre_id": "T1071.001",
+				"description": "admin@338 is a China-based cyber threat group. It has previously used newsworthy events as lures to deliver malware and has primarily targeted organizations involved in financial, economic, and trade policy, typically using publicly available RATs such as PoisonIvy, as well as some non-public backdoors."
+			}
+		],
+		"pos": "part of speech",
+		"nltk-ner": "ORGANIZATION",
+		"pororo-ner": "PERSON"
+	},
+	"Microsoft": {
+		"id": 16,
+		"mitre": [
+			{
+				"domain": "Enterprise",
+				"mitre_id": "T1071.001",
+				"description": "admin@338 is a China-based cyber threat group. It has previously used newsworthy events as lures to deliver malware and has primarily targeted organizations involved in financial, economic, and trade policy, typically using publicly available RATs such as PoisonIvy, as well as some non-public backdoors."
+			}
+		],
+		"pos": "part of speech",
+		"nltk-ner": "ORGANIZATION",
+		"pororo-ner": "PERSON"
+	},
+	"Facebook": {
+		"id": 17,
+		"mitre": [
+			{
+				"domain": "Enterprise",
+				"mitre_id": "T1071.001",
+				"description": "admin@338 is a China-based cyber threat group. It has previously used newsworthy events as lures to deliver malware and has primarily targeted organizations involved in financial, economic, and trade policy, typically using publicly available RATs such as PoisonIvy, as well as some non-public backdoors."
+			}
+		],
+		"pos": "part of speech",
+		"nltk-ner": "ORGANIZATION",
+		"pororo-ner": "PERSON"
+	},
+	"app": {
+		"id": 18,
+		"mitre": [
+			{
+				"domain": "Enterprise",
+				"mitre_id": "T1071.001",
+				"description": "admin@338 is a China-based cyber threat group. It has previously used newsworthy events as lures to deliver malware and has primarily targeted organizations involved in financial, economic, and trade policy, typically using publicly available RATs such as PoisonIvy, as well as some non-public backdoors."
+			}
+		],
+		"pos": "part of speech",
+		"nltk-ner": "ORGANIZATION",
+		"pororo-ner": "PERSON"
+	},
+	"system": {
+		"id": 19,
+		"mitre": [
+			{
+				"domain": "Enterprise",
+				"mitre_id": "T1071.001",
+				"description": "admin@338 is a China-based cyber threat group. It has previously used newsworthy events as lures to deliver malware and has primarily targeted organizations involved in financial, economic, and trade policy, typically using publicly available RATs such as PoisonIvy, as well as some non-public backdoors."
+			}
+		],
+		"pos": "part of speech",
+		"nltk-ner": "ORGANIZATION",
+		"pororo-ner": "PERSON"
+	},
+	"email": {
+		"id": 20,
+		"mitre": [
+			{
+				"domain": "Enterprise",
+				"mitre_id": "T1071.001",
+				"description": "admin@338 is a China-based cyber threat group. It has previously used newsworthy events as lures to deliver malware and has primarily targeted organizations involved in financial, economic, and trade policy, typically using publicly available RATs such as PoisonIvy, as well as some non-public backdoors."
+			}
+		],
+		"pos": "part of speech",
+		"nltk-ner": "ORGANIZATION",
+		"pororo-ner": "PERSON"
+	},
+	"Windows": {
+		"id": 21,
+		"mitre": [
+			{
+				"domain": "Enterprise",
+				"mitre_id": "T1071.001",
+				"description": "admin@338 is a China-based cyber threat group. It has previously used newsworthy events as lures to deliver malware and has primarily targeted organizations involved in financial, economic, and trade policy, typically using publicly available RATs such as PoisonIvy, as well as some non-public backdoors."
+			}
+		],
+		"pos": "part of speech",
+		"nltk-ner": "ORGANIZATION",
+		"pororo-ner": "PERSON"
+	},
+	"vulnerability": {
+		"id": 22,
+		"mitre": [
+			{
+				"domain": "Enterprise",
+				"mitre_id": "T1071.001",
+				"description": "admin@338 is a China-based cyber threat group. It has previously used newsworthy events as lures to deliver malware and has primarily targeted organizations involved in financial, economic, and trade policy, typically using publicly available RATs such as PoisonIvy, as well as some non-public backdoors."
+			}
+		],
+		"pos": "part of speech",
+		"nltk-ner": "ORGANIZATION",
+		"pororo-ner": "PERSON"
+	},
+	"threat": {
+		"id": 23,
+		"mitre": [
+			{
+				"domain": "Enterprise",
+				"mitre_id": "T1071.001",
+				"description": "admin@338 is a China-based cyber threat group. It has previously used newsworthy events as lures to deliver malware and has primarily targeted organizations involved in financial, economic, and trade policy, typically using publicly available RATs such as PoisonIvy, as well as some non-public backdoors."
+			}
+		],
+		"pos": "part of speech",
+		"nltk-ner": "ORGANIZATION",
+		"pororo-ner": "PERSON"
+	},
+	"get": {
+		"id": 24,
+		"mitre": [
+			{
+				"domain": "Enterprise",
+				"mitre_id": "T1071.001",
+				"description": "admin@338 is a China-based cyber threat group. It has previously used newsworthy events as lures to deliver malware and has primarily targeted organizations involved in financial, economic, and trade policy, typically using publicly available RATs such as PoisonIvy, as well as some non-public backdoors."
+			}
+		],
+		"pos": "part of speech",
+		"nltk-ner": "ORGANIZATION",
+		"pororo-ner": "PERSON"
+	},
+	"people": {
+		"id": 25,
+		"mitre": [
+			{
+				"domain": "Enterprise",
+				"mitre_id": "T1071.001",
+				"description": "admin@338 is a China-based cyber threat group. It has previously used newsworthy events as lures to deliver malware and has primarily targeted organizations involved in financial, economic, and trade policy, typically using publicly available RATs such as PoisonIvy, as well as some non-public backdoors."
+			}
+		],
+		"pos": "part of speech",
+		"nltk-ner": "ORGANIZATION",
+		"pororo-ner": "PERSON"
+	}
+}
