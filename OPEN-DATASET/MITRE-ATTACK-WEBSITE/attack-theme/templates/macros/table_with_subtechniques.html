@@ -1,0 +1,45 @@
+{% import 'macros/clean_output.html' as clean_output %}
+
+{% macro table_with_subtechniques(technique_table) -%}
+    <table class="table-techniques">
+        <thead>
+            <tr>
+                <td colspan="2">ID</td>
+                <td>Name</td>
+                <td>Description</td>
+            </tr>
+        </thead>
+        <tbody>
+            {% for row in technique_table %}
+                <tr class="technique">
+                    <td colspan="2">
+                        <a href="/techniques/{{row.tid}}"> {{row.tid}} </a>
+                    </td>
+                    <td>
+                        <a href="/techniques/{{row.tid}}"> {{row.technique_name}} </a>
+                    </td>
+                    <td>
+                        {% if row.deprecated %}
+                            <font color="red">****Deprecation Warning****</font>
+                        {% endif %}
+                        {{clean_output.stixToHTML(row.descr, firstParagraphOnly=True)}}
+                    </td>
+                </tr>
+                {% for subtechnique in row.subtechniques %}
+                    <tr class="sub technique">
+                        <td></td>
+                        <td>
+                            <a href="/techniques/{{row.tid}}/{{subtechnique.id}}"> .{{subtechnique.id}} </a>
+                        </td>
+                        <td>
+                            <a href="/techniques/{{row.tid}}/{{subtechnique.id}}"> {{subtechnique.name}} </a>
+                        </td>
+                        <td>
+                            {{clean_output.stixToHTML(subtechnique.descr, firstParagraphOnly=True)}}
+                        </td>
+                    </tr>   
+                {% endfor %}
+            {% endfor %}
+        </tbody>
+    </table>
+{% endmacro %}
