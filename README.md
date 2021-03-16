@@ -5,7 +5,7 @@ CTI (Cyber Threat Intelligence) with NLP (KOR &amp; EN)
 
 <br/>
 
-### # Instructions (Install In Windows10)
+### # Instructions (Install virtual environment In Windows10)
 
 ```powershell
 # Run Windows Terminal as administrator
@@ -23,6 +23,7 @@ CTI (Cyber Threat Intelligence) with NLP (KOR &amp; EN)
 > git clone https://github.com/kakaobrain/pororo.git
 > cd .\pororo\
 
+# PORORO
 # MODIFY setup.py
 # long_description=open("README.md", 'rt', encoding='UTF8').read(),
 > pip install --editable ./
@@ -30,6 +31,36 @@ CTI (Cyber Threat Intelligence) with NLP (KOR &amp; EN)
 # Shut down the virtual environment
 > deactivate
 ```
+
+<br/>
+
+<br/>
+
+### # MongoDB
+
+```
+> mongod -dbpath
+```
+
+<p align="center">
+    <img src="README.assets/example_of_a_JSON_document.png"/>
+</p>
+
+<br/>
+
+<br/>
+
+<br/>
+
+## Reference
+
+<br/>
+
+### # Get faster pandas with Modin
+
+<p align="center">
+    <img src="README.assets/modin.png"/>
+</p>
 
 <br/>
 
@@ -43,7 +74,9 @@ STIX and TAXII are standards developed in an effort to improve the prevention an
 
 STIX states the what of threat intelligence, while TAXII defines how that information is relayed. Unlike previous methods of sharing, STIX and TAXII are machine-readable and therefore easily automated.
 
-![image-20210223204550405](README.assets/image-20210223204550405.png)
+<p align="center">
+    <img src="README.assets/STIX-TAXI.png"/>
+</p>
 
 <br/>
 
@@ -63,27 +96,8 @@ The ATT&CK knowledge base is used as a foundation for the development of specifi
 
 ### # KakaoBrain PORORO (Platform Of neuRal mOdels for natuRal language prOcessing)
 
+> https://github.com/kakaobrain/pororo
+
 `pororo` performs Natural Language Processing and Speech-related tasks.
 
 It is easy to solve various subtasks in the natural language and speech processing field by simply passing the task name.
-
-<br/>
-
-<br/>
-
-### # Get faster pandas with Modin
-
-![image-20210302215310525](C:\Users\PC\Desktop\Workspace\CTI_with_NLP\README.assets\image-20210302215310525.png)
-
-<br/>
-
-<br/>
-
-### # MongoDB
-
-```
-> mongod -dbpath
-```
-
-![image-20210303004103399](C:\Users\PC\Desktop\Workspace\CTI_with_NLP\README.assets\image-20210303004103399.png)
-
