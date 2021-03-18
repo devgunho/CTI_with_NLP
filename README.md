@@ -5,7 +5,7 @@ CTI (Cyber Threat Intelligence) with NLP (KOR &amp; EN)
 
 <br/>
 
-### # Instructions (Install virtual environment In Windows10)
+### # PORORO Instructions (Install virtual environment In Windows10)
 
 ```powershell
 # Run Windows Terminal as administrator
