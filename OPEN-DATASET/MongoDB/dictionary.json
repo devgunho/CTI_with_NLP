@@ -1,0 +1,2443 @@
+[{
+  "_id": {
+    "$oid": "60537a294bd3b119b8b12c33"
+  },
+  "corpus": "Afghanistan",
+  "entity": "LOCATION"
+},{
+  "_id": {
+    "$oid": "60537a294bd3b119b8b12c34"
+  },
+  "corpus": "Albania",
+  "entity": "LOCATION"
+},{
+  "_id": {
+    "$oid": "60537a294bd3b119b8b12c35"
+  },
+  "corpus": "Algeria",
+  "entity": "LOCATION"
+},{
+  "_id": {
+    "$oid": "60537a294bd3b119b8b12c36"
+  },
+  "corpus": "Andorra",
+  "entity": "LOCATION"
+},{
+  "_id": {
+    "$oid": "60537a294bd3b119b8b12c37"
+  },
+  "corpus": "Angola",
+  "entity": "LOCATION"
+},{
+  "_id": {
+    "$oid": "60537a294bd3b119b8b12c38"
+  },
+  "corpus": "Antigua and Barbuda",
+  "entity": "LOCATION"
+},{
+  "_id": {
+    "$oid": "60537a294bd3b119b8b12c39"
+  },
+  "corpus": "Argentina",
+  "entity": "LOCATION"
+},{
+  "_id": {
+    "$oid": "60537a294bd3b119b8b12c3a"
+  },
+  "corpus": "Armenia",
+  "entity": "LOCATION"
+},{
+  "_id": {
+    "$oid": "60537a294bd3b119b8b12c3b"
+  },
+  "corpus": "Australia",
+  "entity": "LOCATION"
+},{
+  "_id": {
+    "$oid": "60537a294bd3b119b8b12c3c"
+  },
+  "corpus": "Austria",
+  "entity": "LOCATION"
+},{
+  "_id": {
+    "$oid": "60537a294bd3b119b8b12c3d"
+  },
+  "corpus": "Azerbaijan",
+  "entity": "LOCATION"
+},{
+  "_id": {
+    "$oid": "60537a294bd3b119b8b12c3e"
+  },
+  "corpus": "Bahamas",
+  "entity": "LOCATION"
+},{
+  "_id": {
+    "$oid": "60537a294bd3b119b8b12c3f"
+  },
+  "corpus": "Bahrain",
+  "entity": "LOCATION"
+},{
+  "_id": {
+    "$oid": "60537a294bd3b119b8b12c40"
+  },
+  "corpus": "Bangladesh",
+  "entity": "LOCATION"
+},{
+  "_id": {
+    "$oid": "60537a294bd3b119b8b12c41"
+  },
+  "corpus": "Barbados",
+  "entity": "LOCATION"
+},{
+  "_id": {
+    "$oid": "60537a294bd3b119b8b12c42"
+  },
+  "corpus": "Belarus",
+  "entity": "LOCATION"
+},{
+  "_id": {
+    "$oid": "60537a294bd3b119b8b12c43"
+  },
+  "corpus": "Belgium",
+  "entity": "LOCATION"
+},{
+  "_id": {
+    "$oid": "60537a294bd3b119b8b12c44"
+  },
+  "corpus": "Belize",
+  "entity": "LOCATION"
+},{
+  "_id": {
+    "$oid": "60537a294bd3b119b8b12c45"
+  },
+  "corpus": "Benin",
+  "entity": "LOCATION"
+},{
+  "_id": {
+    "$oid": "60537a294bd3b119b8b12c46"
+  },
+  "corpus": "Bhutan",
+  "entity": "LOCATION"
+},{
+  "_id": {
+    "$oid": "60537a294bd3b119b8b12c47"
+  },
+  "corpus": "Bolivia (Plurinational State of)",
+  "entity": "LOCATION"
+},{
+  "_id": {
+    "$oid": "60537a294bd3b119b8b12c48"
+  },
+  "corpus": "Bosnia and Herzegovina",
+  "entity": "LOCATION"
+},{
+  "_id": {
+    "$oid": "60537a294bd3b119b8b12c49"
+  },
+  "corpus": "Botswana",
+  "entity": "LOCATION"
+},{
+  "_id": {
+    "$oid": "60537a294bd3b119b8b12c4a"
+  },
+  "corpus": "Brazil",
+  "entity": "LOCATION"
+},{
+  "_id": {
+    "$oid": "60537a294bd3b119b8b12c4b"
+  },
+  "corpus": "Brunei Darussalam",
+  "entity": "LOCATION"
+},{
+  "_id": {
+    "$oid": "60537a294bd3b119b8b12c4c"
+  },
+  "corpus": "Bulgaria",
+  "entity": "LOCATION"
+},{
+  "_id": {
+    "$oid": "60537a294bd3b119b8b12c4d"
+  },
+  "corpus": "Burkina Faso",
+  "entity": "LOCATION"
+},{
+  "_id": {
+    "$oid": "60537a294bd3b119b8b12c4e"
+  },
+  "corpus": "Burundi",
+  "entity": "LOCATION"
+},{
+  "_id": {
+    "$oid": "60537a294bd3b119b8b12c4f"
+  },
+  "corpus": "Cabo Verde",
+  "entity": "LOCATION"
+},{
+  "_id": {
+    "$oid": "60537a294bd3b119b8b12c50"
+  },
+  "corpus": "Cambodia",
+  "entity": "LOCATION"
+},{
+  "_id": {
+    "$oid": "60537a294bd3b119b8b12c51"
+  },
+  "corpus": "Cameroon",
+  "entity": "LOCATION"
+},{
+  "_id": {
+    "$oid": "60537a294bd3b119b8b12c52"
+  },
+  "corpus": "Canada",
+  "entity": "LOCATION"
+},{
+  "_id": {
+    "$oid": "60537a294bd3b119b8b12c53"
+  },
+  "corpus": "Central African Republic",
+  "entity": "LOCATION"
+},{
+  "_id": {
+    "$oid": "60537a294bd3b119b8b12c54"
+  },
+  "corpus": "Chad",
+  "entity": "LOCATION"
+},{
+  "_id": {
+    "$oid": "60537a294bd3b119b8b12c55"
+  },
+  "corpus": "Chile",
+  "entity": "LOCATION"
+},{
+  "_id": {
+    "$oid": "60537a294bd3b119b8b12c56"
+  },
+  "corpus": "China",
+  "entity": "LOCATION"
+},{
+  "_id": {
+    "$oid": "60537a294bd3b119b8b12c57"
+  },
+  "corpus": "Colombia",
+  "entity": "LOCATION"
+},{
+  "_id": {
+    "$oid": "60537a294bd3b119b8b12c58"
+  },
+  "corpus": "Comoros",
+  "entity": "LOCATION"
+},{
+  "_id": {
+    "$oid": "60537a294bd3b119b8b12c59"
+  },
+  "corpus": "Congo",
+  "entity": "LOCATION"
+},{
+  "_id": {
+    "$oid": "60537a294bd3b119b8b12c5a"
+  },
+  "corpus": "Cook Islands",
+  "entity": "LOCATION"
+},{
+  "_id": {
+    "$oid": "60537a294bd3b119b8b12c5b"
+  },
+  "corpus": "Costa Rica",
+  "entity": "LOCATION"
+},{
+  "_id": {
+    "$oid": "60537a294bd3b119b8b12c5c"
+  },
+  "corpus": "Croatia",
+  "entity": "LOCATION"
+},{
+  "_id": {
+    "$oid": "60537a294bd3b119b8b12c5d"
+  },
+  "corpus": "Cuba",
+  "entity": "LOCATION"
+},{
+  "_id": {
+    "$oid": "60537a294bd3b119b8b12c5e"
+  },
+  "corpus": "Cyprus",
+  "entity": "LOCATION"
+},{
+  "_id": {
+    "$oid": "60537a294bd3b119b8b12c5f"
+  },
+  "corpus": "Czechia",
+  "entity": "LOCATION"
+},{
+  "_id": {
+    "$oid": "60537a294bd3b119b8b12c61"
+  },
+  "corpus": "Democratic People's Republic of Korea",
+  "entity": "LOCATION"
+},{
+  "_id": {
+    "$oid": "60537a294bd3b119b8b12c62"
+  },
+  "corpus": "Democratic Republic of the Congo",
+  "entity": "LOCATION"
+},{
+  "_id": {
+    "$oid": "60537a294bd3b119b8b12c63"
+  },
+  "corpus": "Denmark",
+  "entity": "LOCATION"
+},{
+  "_id": {
+    "$oid": "60537a294bd3b119b8b12c64"
+  },
+  "corpus": "Djibouti",
+  "entity": "LOCATION"
+},{
+  "_id": {
+    "$oid": "60537a294bd3b119b8b12c65"
+  },
+  "corpus": "Dominica",
+  "entity": "LOCATION"
+},{
+  "_id": {
+    "$oid": "60537a294bd3b119b8b12c66"
+  },
+  "corpus": "Dominican Republic",
+  "entity": "LOCATION"
+},{
+  "_id": {
+    "$oid": "60537a294bd3b119b8b12c67"
+  },
+  "corpus": "Ecuador",
+  "entity": "LOCATION"
+},{
+  "_id": {
+    "$oid": "60537a294bd3b119b8b12c68"
+  },
+  "corpus": "Egypt",
+  "entity": "LOCATION"
+},{
+  "_id": {
+    "$oid": "60537a294bd3b119b8b12c69"
+  },
+  "corpus": "El Salvador",
+  "entity": "LOCATION"
+},{
+  "_id": {
+    "$oid": "60537a294bd3b119b8b12c6a"
+  },
+  "corpus": "Equatorial Guinea",
+  "entity": "LOCATION"
+},{
+  "_id": {
+    "$oid": "60537a294bd3b119b8b12c6b"
+  },
+  "corpus": "Eritrea",
+  "entity": "LOCATION"
+},{
+  "_id": {
+    "$oid": "60537a294bd3b119b8b12c6c"
+  },
+  "corpus": "Estonia",
+  "entity": "LOCATION"
+},{
+  "_id": {
+    "$oid": "60537a294bd3b119b8b12c6d"
+  },
+  "corpus": "Eswatini",
+  "entity": "LOCATION"
+},{
+  "_id": {
+    "$oid": "60537a294bd3b119b8b12c6e"
+  },
+  "corpus": "Ethiopia",
+  "entity": "LOCATION"
+},{
+  "_id": {
+    "$oid": "60537a294bd3b119b8b12c6f"
+  },
+  "corpus": "Faroe Islands",
+  "entity": "LOCATION"
+},{
+  "_id": {
+    "$oid": "60537a294bd3b119b8b12c70"
+  },
+  "corpus": "Fiji",
+  "entity": "LOCATION"
+},{
+  "_id": {
+    "$oid": "60537a294bd3b119b8b12c71"
+  },
+  "corpus": "Finland",
+  "entity": "LOCATION"
+},{
+  "_id": {
+    "$oid": "60537a294bd3b119b8b12c72"
+  },
+  "corpus": "France",
+  "entity": "LOCATION"
+},{
+  "_id": {
+    "$oid": "60537a294bd3b119b8b12c73"
+  },
+  "corpus": "Gabon",
+  "entity": "LOCATION"
+},{
+  "_id": {
+    "$oid": "60537a294bd3b119b8b12c74"
+  },
+  "corpus": "Gambia",
+  "entity": "LOCATION"
+},{
+  "_id": {
+    "$oid": "60537a294bd3b119b8b12c75"
+  },
+  "corpus": "Georgia",
+  "entity": "LOCATION"
+},{
+  "_id": {
+    "$oid": "60537a294bd3b119b8b12c76"
+  },
+  "corpus": "Germany",
+  "entity": "LOCATION"
+},{
+  "_id": {
+    "$oid": "60537a294bd3b119b8b12c77"
+  },
+  "corpus": "Ghana",
+  "entity": "LOCATION"
+},{
+  "_id": {
+    "$oid": "60537a294bd3b119b8b12c78"
+  },
+  "corpus": "Greece",
+  "entity": "LOCATION"
+},{
+  "_id": {
+    "$oid": "60537a294bd3b119b8b12c79"
+  },
+  "corpus": "Grenada",
+  "entity": "LOCATION"
+},{
+  "_id": {
+    "$oid": "60537a294bd3b119b8b12c7a"
+  },
+  "corpus": "Guatemala",
+  "entity": "LOCATION"
+},{
+  "_id": {
+    "$oid": "60537a294bd3b119b8b12c7b"
+  },
+  "corpus": "Guinea",
+  "entity": "LOCATION"
+},{
+  "_id": {
+    "$oid": "60537a294bd3b119b8b12c7c"
+  },
+  "corpus": "Guinea-Bissau",
+  "entity": "LOCATION"
+},{
+  "_id": {
+    "$oid": "60537a294bd3b119b8b12c7d"
+  },
+  "corpus": "Guyana",
+  "entity": "LOCATION"
+},{
+  "_id": {
+    "$oid": "60537a294bd3b119b8b12c7e"
+  },
+  "corpus": "Haiti",
+  "entity": "LOCATION"
+},{
+  "_id": {
+    "$oid": "60537a294bd3b119b8b12c7f"
+  },
+  "corpus": "Honduras",
+  "entity": "LOCATION"
+},{
+  "_id": {
+    "$oid": "60537a294bd3b119b8b12c80"
+  },
+  "corpus": "Hungary",
+  "entity": "LOCATION"
+},{
+  "_id": {
+    "$oid": "60537a294bd3b119b8b12c81"
+  },
+  "corpus": "Iceland",
+  "entity": "LOCATION"
+},{
+  "_id": {
+    "$oid": "60537a294bd3b119b8b12c82"
+  },
+  "corpus": "India",
+  "entity": "LOCATION"
+},{
+  "_id": {
+    "$oid": "60537a294bd3b119b8b12c83"
+  },
+  "corpus": "Indonesia",
+  "entity": "LOCATION"
+},{
+  "_id": {
+    "$oid": "60537a294bd3b119b8b12c84"
+  },
+  "corpus": "Iran (Islamic Republic of)",
+  "entity": "LOCATION"
+},{
+  "_id": {
+    "$oid": "60537a294bd3b119b8b12c85"
+  },
+  "corpus": "Iraq",
+  "entity": "LOCATION"
+},{
+  "_id": {
+    "$oid": "60537a294bd3b119b8b12c86"
+  },
+  "corpus": "Ireland",
+  "entity": "LOCATION"
+},{
+  "_id": {
+    "$oid": "60537a294bd3b119b8b12c87"
+  },
+  "corpus": "Israel",
+  "entity": "LOCATION"
+},{
+  "_id": {
+    "$oid": "60537a294bd3b119b8b12c88"
+  },
+  "corpus": "Italy",
+  "entity": "LOCATION"
+},{
+  "_id": {
+    "$oid": "60537a294bd3b119b8b12c89"
+  },
+  "corpus": "Jamaica",
+  "entity": "LOCATION"
+},{
+  "_id": {
+    "$oid": "60537a294bd3b119b8b12c8a"
+  },
+  "corpus": "Japan",
+  "entity": "LOCATION"
+},{
+  "_id": {
+    "$oid": "60537a294bd3b119b8b12c8b"
+  },
+  "corpus": "Jordan",
+  "entity": "LOCATION"
+},{
+  "_id": {
+    "$oid": "60537a294bd3b119b8b12c8c"
+  },
+  "corpus": "Kazakhstan",
+  "entity": "LOCATION"
+},{
+  "_id": {
+    "$oid": "60537a294bd3b119b8b12c8d"
+  },
+  "corpus": "Kenya",
+  "entity": "LOCATION"
+},{
+  "_id": {
+    "$oid": "60537a294bd3b119b8b12c8e"
+  },
+  "corpus": "Kiribati",
+  "entity": "LOCATION"
+},{
+  "_id": {
+    "$oid": "60537a294bd3b119b8b12c8f"
+  },
+  "corpus": "Kuwait",
+  "entity": "LOCATION"
+},{
+  "_id": {
+    "$oid": "60537a294bd3b119b8b12c90"
+  },
+  "corpus": "Kyrgyzstan",
+  "entity": "LOCATION"
+},{
+  "_id": {
+    "$oid": "60537a294bd3b119b8b12c91"
+  },
+  "corpus": "Lao People's Democratic Republic",
+  "entity": "LOCATION"
+},{
+  "_id": {
+    "$oid": "60537a294bd3b119b8b12c92"
+  },
+  "corpus": "Latvia",
+  "entity": "LOCATION"
+},{
+  "_id": {
+    "$oid": "60537a294bd3b119b8b12c93"
+  },
+  "corpus": "Lebanon",
+  "entity": "LOCATION"
+},{
+  "_id": {
+    "$oid": "60537a294bd3b119b8b12c94"
+  },
+  "corpus": "Lesotho",
+  "entity": "LOCATION"
+},{
+  "_id": {
+    "$oid": "60537a294bd3b119b8b12c95"
+  },
+  "corpus": "Liberia",
+  "entity": "LOCATION"
+},{
+  "_id": {
+    "$oid": "60537a294bd3b119b8b12c96"
+  },
+  "corpus": "Libya",
+  "entity": "LOCATION"
+},{
+  "_id": {
+    "$oid": "60537a294bd3b119b8b12c97"
+  },
+  "corpus": "Lithuania",
+  "entity": "LOCATION"
+},{
+  "_id": {
+    "$oid": "60537a294bd3b119b8b12c98"
+  },
+  "corpus": "Luxembourg",
+  "entity": "LOCATION"
+},{
+  "_id": {
+    "$oid": "60537a294bd3b119b8b12c99"
+  },
+  "corpus": "Madagascar",
+  "entity": "LOCATION"
+},{
+  "_id": {
+    "$oid": "60537a294bd3b119b8b12c9a"
+  },
+  "corpus": "Malawi",
+  "entity": "LOCATION"
+},{
+  "_id": {
+    "$oid": "60537a294bd3b119b8b12c9b"
+  },
+  "corpus": "Malaysia",
+  "entity": "LOCATION"
+},{
+  "_id": {
+    "$oid": "60537a294bd3b119b8b12c9c"
+  },
+  "corpus": "Maldives",
+  "entity": "LOCATION"
+},{
+  "_id": {
+    "$oid": "60537a294bd3b119b8b12c9d"
+  },
+  "corpus": "Mali",
+  "entity": "LOCATION"
+},{
+  "_id": {
+    "$oid": "60537a294bd3b119b8b12c9e"
+  },
+  "corpus": "Malta",
+  "entity": "LOCATION"
+},{
+  "_id": {
+    "$oid": "60537a294bd3b119b8b12c9f"
+  },
+  "corpus": "Marshall Islands",
+  "entity": "LOCATION"
+},{
+  "_id": {
+    "$oid": "60537a294bd3b119b8b12ca0"
+  },
+  "corpus": "Mauritania",
+  "entity": "LOCATION"
+},{
+  "_id": {
+    "$oid": "60537a294bd3b119b8b12ca1"
+  },
+  "corpus": "Mauritius",
+  "entity": "LOCATION"
+},{
+  "_id": {
+    "$oid": "60537a294bd3b119b8b12ca2"
+  },
+  "corpus": "Mexico",
+  "entity": "LOCATION"
+},{
+  "_id": {
+    "$oid": "60537a294bd3b119b8b12ca3"
+  },
+  "corpus": "Micronesia (Federated States of)",
+  "entity": "LOCATION"
+},{
+  "_id": {
+    "$oid": "60537a294bd3b119b8b12ca4"
+  },
+  "corpus": "Monaco",
+  "entity": "LOCATION"
+},{
+  "_id": {
+    "$oid": "60537a294bd3b119b8b12ca5"
+  },
+  "corpus": "Mongolia",
+  "entity": "LOCATION"
+},{
+  "_id": {
+    "$oid": "60537a294bd3b119b8b12ca6"
+  },
+  "corpus": "Montenegro",
+  "entity": "LOCATION"
+},{
+  "_id": {
+    "$oid": "60537a294bd3b119b8b12ca7"
+  },
+  "corpus": "Morocco",
+  "entity": "LOCATION"
+},{
+  "_id": {
+    "$oid": "60537a294bd3b119b8b12ca8"
+  },
+  "corpus": "Mozambique",
+  "entity": "LOCATION"
+},{
+  "_id": {
+    "$oid": "60537a294bd3b119b8b12ca9"
+  },
+  "corpus": "Myanmar",
+  "entity": "LOCATION"
+},{
+  "_id": {
+    "$oid": "60537a294bd3b119b8b12caa"
+  },
+  "corpus": "Namibia",
+  "entity": "LOCATION"
+},{
+  "_id": {
+    "$oid": "60537a294bd3b119b8b12cab"
+  },
+  "corpus": "Nauru",
+  "entity": "LOCATION"
+},{
+  "_id": {
+    "$oid": "60537a294bd3b119b8b12cac"
+  },
+  "corpus": "Nepal",
+  "entity": "LOCATION"
+},{
+  "_id": {
+    "$oid": "60537a294bd3b119b8b12cad"
+  },
+  "corpus": "Netherlands",
+  "entity": "LOCATION"
+},{
+  "_id": {
+    "$oid": "60537a294bd3b119b8b12cae"
+  },
+  "corpus": "New Zealand",
+  "entity": "LOCATION"
+},{
+  "_id": {
+    "$oid": "60537a294bd3b119b8b12caf"
+  },
+  "corpus": "Nicaragua",
+  "entity": "LOCATION"
+},{
+  "_id": {
+    "$oid": "60537a294bd3b119b8b12cb0"
+  },
+  "corpus": "Niger",
+  "entity": "LOCATION"
+},{
+  "_id": {
+    "$oid": "60537a294bd3b119b8b12cb1"
+  },
+  "corpus": "Nigeria",
+  "entity": "LOCATION"
+},{
+  "_id": {
+    "$oid": "60537a294bd3b119b8b12cb2"
+  },
+  "corpus": "Niue",
+  "entity": "LOCATION"
+},{
+  "_id": {
+    "$oid": "60537a294bd3b119b8b12cb3"
+  },
+  "corpus": "North Macedonia",
+  "entity": "LOCATION"
+},{
+  "_id": {
+    "$oid": "60537a294bd3b119b8b12cb4"
+  },
+  "corpus": "Norway",
+  "entity": "LOCATION"
+},{
+  "_id": {
+    "$oid": "60537a294bd3b119b8b12cb5"
+  },
+  "corpus": "Oman",
+  "entity": "LOCATION"
+},{
+  "_id": {
+    "$oid": "60537a294bd3b119b8b12cb6"
+  },
+  "corpus": "Pakistan",
+  "entity": "LOCATION"
+},{
+  "_id": {
+    "$oid": "60537a294bd3b119b8b12cb7"
+  },
+  "corpus": "Palau",
+  "entity": "LOCATION"
+},{
+  "_id": {
+    "$oid": "60537a294bd3b119b8b12cb8"
+  },
+  "corpus": "Panama",
+  "entity": "LOCATION"
+},{
+  "_id": {
+    "$oid": "60537a294bd3b119b8b12cb9"
+  },
+  "corpus": "Papua New Guinea",
+  "entity": "LOCATION"
+},{
+  "_id": {
+    "$oid": "60537a294bd3b119b8b12cba"
+  },
+  "corpus": "Paraguay",
+  "entity": "LOCATION"
+},{
+  "_id": {
+    "$oid": "60537a294bd3b119b8b12cbb"
+  },
+  "corpus": "Peru",
+  "entity": "LOCATION"
+},{
+  "_id": {
+    "$oid": "60537a294bd3b119b8b12cbc"
+  },
+  "corpus": "Philippines",
+  "entity": "LOCATION"
+},{
+  "_id": {
+    "$oid": "60537a294bd3b119b8b12cbd"
+  },
+  "corpus": "Poland",
+  "entity": "LOCATION"
+},{
+  "_id": {
+    "$oid": "60537a294bd3b119b8b12cbe"
+  },
+  "corpus": "Portugal",
+  "entity": "LOCATION"
+},{
+  "_id": {
+    "$oid": "60537a294bd3b119b8b12cbf"
+  },
+  "corpus": "Qatar",
+  "entity": "LOCATION"
+},{
+  "_id": {
+    "$oid": "60537a294bd3b119b8b12cc0"
+  },
+  "corpus": "Republic of Korea",
+  "entity": "LOCATION"
+},{
+  "_id": {
+    "$oid": "60537a294bd3b119b8b12cc1"
+  },
+  "corpus": "Republic of Moldova",
+  "entity": "LOCATION"
+},{
+  "_id": {
+    "$oid": "60537a294bd3b119b8b12cc2"
+  },
+  "corpus": "Romania",
+  "entity": "LOCATION"
+},{
+  "_id": {
+    "$oid": "60537a294bd3b119b8b12cc3"
+  },
+  "corpus": "Russian Federation",
+  "entity": "LOCATION"
+},{
+  "_id": {
+    "$oid": "60537a294bd3b119b8b12cc4"
+  },
+  "corpus": "Rwanda",
+  "entity": "LOCATION"
+},{
+  "_id": {
+    "$oid": "60537a294bd3b119b8b12cc5"
+  },
+  "corpus": "Saint Kitts and Nevis",
+  "entity": "LOCATION"
+},{
+  "_id": {
+    "$oid": "60537a294bd3b119b8b12cc6"
+  },
+  "corpus": "Saint Lucia",
+  "entity": "LOCATION"
+},{
+  "_id": {
+    "$oid": "60537a294bd3b119b8b12cc7"
+  },
+  "corpus": "Saint Vincent and the Grenadines",
+  "entity": "LOCATION"
+},{
+  "_id": {
+    "$oid": "60537a294bd3b119b8b12cc8"
+  },
+  "corpus": "Samoa",
+  "entity": "LOCATION"
+},{
+  "_id": {
+    "$oid": "60537a294bd3b119b8b12cc9"
+  },
+  "corpus": "San Marino",
+  "entity": "LOCATION"
+},{
+  "_id": {
+    "$oid": "60537a294bd3b119b8b12cca"
+  },
+  "corpus": "Sao Tome and Principe",
+  "entity": "LOCATION"
+},{
+  "_id": {
+    "$oid": "60537a294bd3b119b8b12ccb"
+  },
+  "corpus": "Saudi Arabia",
+  "entity": "LOCATION"
+},{
+  "_id": {
+    "$oid": "60537a294bd3b119b8b12ccc"
+  },
+  "corpus": "Senegal",
+  "entity": "LOCATION"
+},{
+  "_id": {
+    "$oid": "60537a294bd3b119b8b12ccd"
+  },
+  "corpus": "Serbia",
+  "entity": "LOCATION"
+},{
+  "_id": {
+    "$oid": "60537a294bd3b119b8b12cce"
+  },
+  "corpus": "Seychelles",
+  "entity": "LOCATION"
+},{
+  "_id": {
+    "$oid": "60537a294bd3b119b8b12ccf"
+  },
+  "corpus": "Sierra Leone",
+  "entity": "LOCATION"
+},{
+  "_id": {
+    "$oid": "60537a294bd3b119b8b12cd0"
+  },
+  "corpus": "Singapore",
+  "entity": "LOCATION"
+},{
+  "_id": {
+    "$oid": "60537a294bd3b119b8b12cd1"
+  },
+  "corpus": "Slovakia",
+  "entity": "LOCATION"
+},{
+  "_id": {
+    "$oid": "60537a294bd3b119b8b12cd2"
+  },
+  "corpus": "Slovenia",
+  "entity": "LOCATION"
+},{
+  "_id": {
+    "$oid": "60537a294bd3b119b8b12cd3"
+  },
+  "corpus": "Solomon Islands",
+  "entity": "LOCATION"
+},{
+  "_id": {
+    "$oid": "60537a294bd3b119b8b12cd4"
+  },
+  "corpus": "Somalia",
+  "entity": "LOCATION"
+},{
+  "_id": {
+    "$oid": "60537a294bd3b119b8b12cd5"
+  },
+  "corpus": "South Africa",
+  "entity": "LOCATION"
+},{
+  "_id": {
+    "$oid": "60537a294bd3b119b8b12cd6"
+  },
+  "corpus": "South Sudan",
+  "entity": "LOCATION"
+},{
+  "_id": {
+    "$oid": "60537a294bd3b119b8b12cd7"
+  },
+  "corpus": "Spain",
+  "entity": "LOCATION"
+},{
+  "_id": {
+    "$oid": "60537a294bd3b119b8b12cd8"
+  },
+  "corpus": "Sri Lanka",
+  "entity": "LOCATION"
+},{
+  "_id": {
+    "$oid": "60537a294bd3b119b8b12cd9"
+  },
+  "corpus": "Sudan",
+  "entity": "LOCATION"
+},{
+  "_id": {
+    "$oid": "60537a294bd3b119b8b12cda"
+  },
+  "corpus": "Suriname",
+  "entity": "LOCATION"
+},{
+  "_id": {
+    "$oid": "60537a294bd3b119b8b12cdb"
+  },
+  "corpus": "Sweden",
+  "entity": "LOCATION"
+},{
+  "_id": {
+    "$oid": "60537a294bd3b119b8b12cdc"
+  },
+  "corpus": "Switzerland",
+  "entity": "LOCATION"
+},{
+  "_id": {
+    "$oid": "60537a294bd3b119b8b12cdd"
+  },
+  "corpus": "Syrian Arab Republic",
+  "entity": "LOCATION"
+},{
+  "_id": {
+    "$oid": "60537a294bd3b119b8b12cde"
+  },
+  "corpus": "Tajikistan",
+  "entity": "LOCATION"
+},{
+  "_id": {
+    "$oid": "60537a294bd3b119b8b12cdf"
+  },
+  "corpus": "Thailand",
+  "entity": "LOCATION"
+},{
+  "_id": {
+    "$oid": "60537a294bd3b119b8b12ce0"
+  },
+  "corpus": "Timor-Leste",
+  "entity": "LOCATION"
+},{
+  "_id": {
+    "$oid": "60537a294bd3b119b8b12ce1"
+  },
+  "corpus": "Togo",
+  "entity": "LOCATION"
+},{
+  "_id": {
+    "$oid": "60537a294bd3b119b8b12ce2"
+  },
+  "corpus": "Tokelau",
+  "entity": "LOCATION"
+},{
+  "_id": {
+    "$oid": "60537a294bd3b119b8b12ce3"
+  },
+  "corpus": "Tonga",
+  "entity": "LOCATION"
+},{
+  "_id": {
+    "$oid": "60537a294bd3b119b8b12ce4"
+  },
+  "corpus": "Trinidad and Tobago",
+  "entity": "LOCATION"
+},{
+  "_id": {
+    "$oid": "60537a294bd3b119b8b12ce5"
+  },
+  "corpus": "Tunisia",
+  "entity": "LOCATION"
+},{
+  "_id": {
+    "$oid": "60537a294bd3b119b8b12ce6"
+  },
+  "corpus": "Turkey",
+  "entity": "LOCATION"
+},{
+  "_id": {
+    "$oid": "60537a294bd3b119b8b12ce7"
+  },
+  "corpus": "Turkmenistan",
+  "entity": "LOCATION"
+},{
+  "_id": {
+    "$oid": "60537a294bd3b119b8b12ce8"
+  },
+  "corpus": "Tuvalu",
+  "entity": "LOCATION"
+},{
+  "_id": {
+    "$oid": "60537a294bd3b119b8b12ce9"
+  },
+  "corpus": "Uganda",
+  "entity": "LOCATION"
+},{
+  "_id": {
+    "$oid": "60537a294bd3b119b8b12cea"
+  },
+  "corpus": "Ukraine",
+  "entity": "LOCATION"
+},{
+  "_id": {
+    "$oid": "60537a294bd3b119b8b12ceb"
+  },
+  "corpus": "United Arab Emirates",
+  "entity": "LOCATION"
+},{
+  "_id": {
+    "$oid": "60537a294bd3b119b8b12cec"
+  },
+  "corpus": "United Kingdom of Great Britain and Northern Ireland",
+  "entity": "LOCATION"
+},{
+  "_id": {
+    "$oid": "60537a294bd3b119b8b12ced"
+  },
+  "corpus": "United Republic of Tanzania",
+  "entity": "LOCATION"
+},{
+  "_id": {
+    "$oid": "60537a294bd3b119b8b12cee"
+  },
+  "corpus": "United States of America",
+  "entity": "LOCATION"
+},{
+  "_id": {
+    "$oid": "60537a294bd3b119b8b12cef"
+  },
+  "corpus": "Uruguay",
+  "entity": "LOCATION"
+},{
+  "_id": {
+    "$oid": "60537a294bd3b119b8b12cf0"
+  },
+  "corpus": "Uzbekistan",
+  "entity": "LOCATION"
+},{
+  "_id": {
+    "$oid": "60537a294bd3b119b8b12cf1"
+  },
+  "corpus": "Vanuatu",
+  "entity": "LOCATION"
+},{
+  "_id": {
+    "$oid": "60537a294bd3b119b8b12cf2"
+  },
+  "corpus": "Venezuela (Bolivarian Republic of)",
+  "entity": "LOCATION"
+},{
+  "_id": {
+    "$oid": "60537a294bd3b119b8b12cf3"
+  },
+  "corpus": "Viet Nam",
+  "entity": "LOCATION"
+},{
+  "_id": {
+    "$oid": "60537a294bd3b119b8b12cf4"
+  },
+  "corpus": "Yemen",
+  "entity": "LOCATION"
+},{
+  "_id": {
+    "$oid": "60537a294bd3b119b8b12cf5"
+  },
+  "corpus": "Zambia",
+  "entity": "LOCATION"
+},{
+  "_id": {
+    "$oid": "60537a294bd3b119b8b12cf6"
+  },
+  "corpus": "Zimbabwe",
+  "entity": "LOCATION"
+},{
+  "_id": {
+    "$oid": "605389874bd3b119b8b12cf8"
+  },
+  "corpus": "G0001",
+  "entity": "THREAT-ACTOR"
+},{
+  "_id": {
+    "$oid": "605389874bd3b119b8b12cf9"
+  },
+  "corpus": "G0002",
+  "entity": "THREAT-ACTOR"
+},{
+  "_id": {
+    "$oid": "605389874bd3b119b8b12cfa"
+  },
+  "corpus": "G0003",
+  "entity": "THREAT-ACTOR"
+},{
+  "_id": {
+    "$oid": "605389874bd3b119b8b12cfb"
+  },
+  "corpus": "G0004",
+  "entity": "THREAT-ACTOR"
+},{
+  "_id": {
+    "$oid": "605389874bd3b119b8b12cfc"
+  },
+  "corpus": "G0005",
+  "entity": "THREAT-ACTOR"
+},{
+  "_id": {
+    "$oid": "605389874bd3b119b8b12cfd"
+  },
+  "corpus": "G0006",
+  "entity": "THREAT-ACTOR"
+},{
+  "_id": {
+    "$oid": "605389874bd3b119b8b12cfe"
+  },
+  "corpus": "G0007",
+  "entity": "THREAT-ACTOR"
+},{
+  "_id": {
+    "$oid": "605389874bd3b119b8b12cff"
+  },
+  "corpus": "G0008",
+  "entity": "THREAT-ACTOR"
+},{
+  "_id": {
+    "$oid": "605389874bd3b119b8b12d00"
+  },
+  "corpus": "G0009",
+  "entity": "THREAT-ACTOR"
+},{
+  "_id": {
+    "$oid": "605389874bd3b119b8b12d01"
+  },
+  "corpus": "G0010",
+  "entity": "THREAT-ACTOR"
+},{
+  "_id": {
+    "$oid": "605389874bd3b119b8b12d02"
+  },
+  "corpus": "G0011",
+  "entity": "THREAT-ACTOR"
+},{
+  "_id": {
+    "$oid": "605389874bd3b119b8b12d03"
+  },
+  "corpus": "G0012",
+  "entity": "THREAT-ACTOR"
+},{
+  "_id": {
+    "$oid": "605389874bd3b119b8b12d04"
+  },
+  "corpus": "G0013",
+  "entity": "THREAT-ACTOR"
+},{
+  "_id": {
+    "$oid": "605389874bd3b119b8b12d05"
+  },
+  "corpus": "G0014",
+  "entity": "THREAT-ACTOR"
+},{
+  "_id": {
+    "$oid": "605389874bd3b119b8b12d06"
+  },
+  "corpus": "G0015",
+  "entity": "THREAT-ACTOR"
+},{
+  "_id": {
+    "$oid": "605389874bd3b119b8b12d07"
+  },
+  "corpus": "G0016",
+  "entity": "THREAT-ACTOR"
+},{
+  "_id": {
+    "$oid": "605389874bd3b119b8b12d08"
+  },
+  "corpus": "G0017",
+  "entity": "THREAT-ACTOR"
+},{
+  "_id": {
+    "$oid": "605389874bd3b119b8b12d09"
+  },
+  "corpus": "G0018",
+  "entity": "THREAT-ACTOR"
+},{
+  "_id": {
+    "$oid": "605389874bd3b119b8b12d0a"
+  },
+  "corpus": "G0019",
+  "entity": "THREAT-ACTOR"
+},{
+  "_id": {
+    "$oid": "605389874bd3b119b8b12d0b"
+  },
+  "corpus": "G0020",
+  "entity": "THREAT-ACTOR"
+},{
+  "_id": {
+    "$oid": "605389874bd3b119b8b12d0c"
+  },
+  "corpus": "G0021",
+  "entity": "THREAT-ACTOR"
+},{
+  "_id": {
+    "$oid": "605389874bd3b119b8b12d0d"
+  },
+  "corpus": "G0022",
+  "entity": "THREAT-ACTOR"
+},{
+  "_id": {
+    "$oid": "605389874bd3b119b8b12d0e"
+  },
+  "corpus": "G0023",
+  "entity": "THREAT-ACTOR"
+},{
+  "_id": {
+    "$oid": "605389874bd3b119b8b12d0f"
+  },
+  "corpus": "G0024",
+  "entity": "THREAT-ACTOR"
+},{
+  "_id": {
+    "$oid": "605389874bd3b119b8b12d10"
+  },
+  "corpus": "G0025",
+  "entity": "THREAT-ACTOR"
+},{
+  "_id": {
+    "$oid": "605389874bd3b119b8b12d11"
+  },
+  "corpus": "G0026",
+  "entity": "THREAT-ACTOR"
+},{
+  "_id": {
+    "$oid": "605389874bd3b119b8b12d12"
+  },
+  "corpus": "G0027",
+  "entity": "THREAT-ACTOR"
+},{
+  "_id": {
+    "$oid": "605389874bd3b119b8b12d13"
+  },
+  "corpus": "G0028",
+  "entity": "THREAT-ACTOR"
+},{
+  "_id": {
+    "$oid": "605389874bd3b119b8b12d14"
+  },
+  "corpus": "G0029",
+  "entity": "THREAT-ACTOR"
+},{
+  "_id": {
+    "$oid": "605389874bd3b119b8b12d15"
+  },
+  "corpus": "G0030",
+  "entity": "THREAT-ACTOR"
+},{
+  "_id": {
+    "$oid": "605389874bd3b119b8b12d16"
+  },
+  "corpus": "G0031",
+  "entity": "THREAT-ACTOR"
+},{
+  "_id": {
+    "$oid": "605389874bd3b119b8b12d17"
+  },
+  "corpus": "G0032",
+  "entity": "THREAT-ACTOR"
+},{
+  "_id": {
+    "$oid": "605389874bd3b119b8b12d18"
+  },
+  "corpus": "G0033",
+  "entity": "THREAT-ACTOR"
+},{
+  "_id": {
+    "$oid": "605389874bd3b119b8b12d19"
+  },
+  "corpus": "G0034",
+  "entity": "THREAT-ACTOR"
+},{
+  "_id": {
+    "$oid": "605389874bd3b119b8b12d1a"
+  },
+  "corpus": "G0035",
+  "entity": "THREAT-ACTOR"
+},{
+  "_id": {
+    "$oid": "605389874bd3b119b8b12d1b"
+  },
+  "corpus": "G0036",
+  "entity": "THREAT-ACTOR"
+},{
+  "_id": {
+    "$oid": "605389874bd3b119b8b12d1c"
+  },
+  "corpus": "G0037",
+  "entity": "THREAT-ACTOR"
+},{
+  "_id": {
+    "$oid": "605389874bd3b119b8b12d1d"
+  },
+  "corpus": "G0038",
+  "entity": "THREAT-ACTOR"
+},{
+  "_id": {
+    "$oid": "605389874bd3b119b8b12d1e"
+  },
+  "corpus": "G0039",
+  "entity": "THREAT-ACTOR"
+},{
+  "_id": {
+    "$oid": "605389874bd3b119b8b12d1f"
+  },
+  "corpus": "G0040",
+  "entity": "THREAT-ACTOR"
+},{
+  "_id": {
+    "$oid": "605389874bd3b119b8b12d20"
+  },
+  "corpus": "G0041",
+  "entity": "THREAT-ACTOR"
+},{
+  "_id": {
+    "$oid": "605389874bd3b119b8b12d21"
+  },
+  "corpus": "G0043",
+  "entity": "THREAT-ACTOR"
+},{
+  "_id": {
+    "$oid": "605389874bd3b119b8b12d22"
+  },
+  "corpus": "G0044",
+  "entity": "THREAT-ACTOR"
+},{
+  "_id": {
+    "$oid": "605389874bd3b119b8b12d23"
+  },
+  "corpus": "G0045",
+  "entity": "THREAT-ACTOR"
+},{
+  "_id": {
+    "$oid": "605389874bd3b119b8b12d24"
+  },
+  "corpus": "G0046",
+  "entity": "THREAT-ACTOR"
+},{
+  "_id": {
+    "$oid": "605389874bd3b119b8b12d25"
+  },
+  "corpus": "G0047",
+  "entity": "THREAT-ACTOR"
+},{
+  "_id": {
+    "$oid": "605389874bd3b119b8b12d26"
+  },
+  "corpus": "G0048",
+  "entity": "THREAT-ACTOR"
+},{
+  "_id": {
+    "$oid": "605389874bd3b119b8b12d27"
+  },
+  "corpus": "G0049",
+  "entity": "THREAT-ACTOR"
+},{
+  "_id": {
+    "$oid": "605389874bd3b119b8b12d28"
+  },
+  "corpus": "G0050",
+  "entity": "THREAT-ACTOR"
+},{
+  "_id": {
+    "$oid": "605389874bd3b119b8b12d29"
+  },
+  "corpus": "G0051",
+  "entity": "THREAT-ACTOR"
+},{
+  "_id": {
+    "$oid": "605389874bd3b119b8b12d2a"
+  },
+  "corpus": "G0052",
+  "entity": "THREAT-ACTOR"
+},{
+  "_id": {
+    "$oid": "605389874bd3b119b8b12d2b"
+  },
+  "corpus": "G0053",
+  "entity": "THREAT-ACTOR"
+},{
+  "_id": {
+    "$oid": "605389874bd3b119b8b12d2c"
+  },
+  "corpus": "G0054",
+  "entity": "THREAT-ACTOR"
+},{
+  "_id": {
+    "$oid": "605389874bd3b119b8b12d2d"
+  },
+  "corpus": "G0055",
+  "entity": "THREAT-ACTOR"
+},{
+  "_id": {
+    "$oid": "605389874bd3b119b8b12d2e"
+  },
+  "corpus": "G0056",
+  "entity": "THREAT-ACTOR"
+},{
+  "_id": {
+    "$oid": "605389874bd3b119b8b12d2f"
+  },
+  "corpus": "G0058",
+  "entity": "THREAT-ACTOR"
+},{
+  "_id": {
+    "$oid": "605389874bd3b119b8b12d30"
+  },
+  "corpus": "G0059",
+  "entity": "THREAT-ACTOR"
+},{
+  "_id": {
+    "$oid": "605389874bd3b119b8b12d31"
+  },
+  "corpus": "G0060",
+  "entity": "THREAT-ACTOR"
+},{
+  "_id": {
+    "$oid": "605389874bd3b119b8b12d32"
+  },
+  "corpus": "G0061",
+  "entity": "THREAT-ACTOR"
+},{
+  "_id": {
+    "$oid": "605389874bd3b119b8b12d33"
+  },
+  "corpus": "G0062",
+  "entity": "THREAT-ACTOR"
+},{
+  "_id": {
+    "$oid": "605389874bd3b119b8b12d34"
+  },
+  "corpus": "G0063",
+  "entity": "THREAT-ACTOR"
+},{
+  "_id": {
+    "$oid": "605389874bd3b119b8b12d35"
+  },
+  "corpus": "G0064",
+  "entity": "THREAT-ACTOR"
+},{
+  "_id": {
+    "$oid": "605389874bd3b119b8b12d36"
+  },
+  "corpus": "G0065",
+  "entity": "THREAT-ACTOR"
+},{
+  "_id": {
+    "$oid": "605389874bd3b119b8b12d37"
+  },
+  "corpus": "G0066",
+  "entity": "THREAT-ACTOR"
+},{
+  "_id": {
+    "$oid": "605389874bd3b119b8b12d38"
+  },
+  "corpus": "G0067",
+  "entity": "THREAT-ACTOR"
+},{
+  "_id": {
+    "$oid": "605389874bd3b119b8b12d39"
+  },
+  "corpus": "G0068",
+  "entity": "THREAT-ACTOR"
+},{
+  "_id": {
+    "$oid": "605389874bd3b119b8b12d3a"
+  },
+  "corpus": "G0069",
+  "entity": "THREAT-ACTOR"
+},{
+  "_id": {
+    "$oid": "605389874bd3b119b8b12d3b"
+  },
+  "corpus": "G0070",
+  "entity": "THREAT-ACTOR"
+},{
+  "_id": {
+    "$oid": "605389874bd3b119b8b12d3c"
+  },
+  "corpus": "G0071",
+  "entity": "THREAT-ACTOR"
+},{
+  "_id": {
+    "$oid": "605389874bd3b119b8b12d3d"
+  },
+  "corpus": "G0072",
+  "entity": "THREAT-ACTOR"
+},{
+  "_id": {
+    "$oid": "605389874bd3b119b8b12d3e"
+  },
+  "corpus": "G0073",
+  "entity": "THREAT-ACTOR"
+},{
+  "_id": {
+    "$oid": "605389874bd3b119b8b12d3f"
+  },
+  "corpus": "G0074",
+  "entity": "THREAT-ACTOR"
+},{
+  "_id": {
+    "$oid": "605389874bd3b119b8b12d40"
+  },
+  "corpus": "G0075",
+  "entity": "THREAT-ACTOR"
+},{
+  "_id": {
+    "$oid": "605389874bd3b119b8b12d41"
+  },
+  "corpus": "G0076",
+  "entity": "THREAT-ACTOR"
+},{
+  "_id": {
+    "$oid": "605389874bd3b119b8b12d42"
+  },
+  "corpus": "G0077",
+  "entity": "THREAT-ACTOR"
+},{
+  "_id": {
+    "$oid": "605389874bd3b119b8b12d43"
+  },
+  "corpus": "G0078",
+  "entity": "THREAT-ACTOR"
+},{
+  "_id": {
+    "$oid": "605389874bd3b119b8b12d44"
+  },
+  "corpus": "G0079",
+  "entity": "THREAT-ACTOR"
+},{
+  "_id": {
+    "$oid": "605389874bd3b119b8b12d45"
+  },
+  "corpus": "G0080",
+  "entity": "THREAT-ACTOR"
+},{
+  "_id": {
+    "$oid": "605389874bd3b119b8b12d46"
+  },
+  "corpus": "G0081",
+  "entity": "THREAT-ACTOR"
+},{
+  "_id": {
+    "$oid": "605389874bd3b119b8b12d47"
+  },
+  "corpus": "G0082",
+  "entity": "THREAT-ACTOR"
+},{
+  "_id": {
+    "$oid": "605389874bd3b119b8b12d48"
+  },
+  "corpus": "G0083",
+  "entity": "THREAT-ACTOR"
+},{
+  "_id": {
+    "$oid": "605389874bd3b119b8b12d49"
+  },
+  "corpus": "G0084",
+  "entity": "THREAT-ACTOR"
+},{
+  "_id": {
+    "$oid": "605389874bd3b119b8b12d4a"
+  },
+  "corpus": "G0085",
+  "entity": "THREAT-ACTOR"
+},{
+  "_id": {
+    "$oid": "605389874bd3b119b8b12d4b"
+  },
+  "corpus": "G0086",
+  "entity": "THREAT-ACTOR"
+},{
+  "_id": {
+    "$oid": "605389874bd3b119b8b12d4c"
+  },
+  "corpus": "G0087",
+  "entity": "THREAT-ACTOR"
+},{
+  "_id": {
+    "$oid": "605389874bd3b119b8b12d4d"
+  },
+  "corpus": "G0088",
+  "entity": "THREAT-ACTOR"
+},{
+  "_id": {
+    "$oid": "605389874bd3b119b8b12d4e"
+  },
+  "corpus": "G0089",
+  "entity": "THREAT-ACTOR"
+},{
+  "_id": {
+    "$oid": "605389874bd3b119b8b12d4f"
+  },
+  "corpus": "G0090",
+  "entity": "THREAT-ACTOR"
+},{
+  "_id": {
+    "$oid": "605389874bd3b119b8b12d50"
+  },
+  "corpus": "G0091",
+  "entity": "THREAT-ACTOR"
+},{
+  "_id": {
+    "$oid": "605389874bd3b119b8b12d51"
+  },
+  "corpus": "G0092",
+  "entity": "THREAT-ACTOR"
+},{
+  "_id": {
+    "$oid": "605389884bd3b119b8b12d52"
+  },
+  "corpus": "G0093",
+  "entity": "THREAT-ACTOR"
+},{
+  "_id": {
+    "$oid": "605389884bd3b119b8b12d53"
+  },
+  "corpus": "G0094",
+  "entity": "THREAT-ACTOR"
+},{
+  "_id": {
+    "$oid": "605389884bd3b119b8b12d54"
+  },
+  "corpus": "G0095",
+  "entity": "THREAT-ACTOR"
+},{
+  "_id": {
+    "$oid": "605389884bd3b119b8b12d55"
+  },
+  "corpus": "G0096",
+  "entity": "THREAT-ACTOR"
+},{
+  "_id": {
+    "$oid": "605389884bd3b119b8b12d56"
+  },
+  "corpus": "G0098",
+  "entity": "THREAT-ACTOR"
+},{
+  "_id": {
+    "$oid": "605389884bd3b119b8b12d57"
+  },
+  "corpus": "G0099",
+  "entity": "THREAT-ACTOR"
+},{
+  "_id": {
+    "$oid": "605389884bd3b119b8b12d58"
+  },
+  "corpus": "G0100",
+  "entity": "THREAT-ACTOR"
+},{
+  "_id": {
+    "$oid": "605389884bd3b119b8b12d59"
+  },
+  "corpus": "G0101",
+  "entity": "THREAT-ACTOR"
+},{
+  "_id": {
+    "$oid": "605389884bd3b119b8b12d5a"
+  },
+  "corpus": "G0102",
+  "entity": "THREAT-ACTOR"
+},{
+  "_id": {
+    "$oid": "605389884bd3b119b8b12d5b"
+  },
+  "corpus": "G0103",
+  "entity": "THREAT-ACTOR"
+},{
+  "_id": {
+    "$oid": "605389884bd3b119b8b12d5c"
+  },
+  "corpus": "G0104",
+  "entity": "THREAT-ACTOR"
+},{
+  "_id": {
+    "$oid": "605389884bd3b119b8b12d5d"
+  },
+  "corpus": "G0105",
+  "entity": "THREAT-ACTOR"
+},{
+  "_id": {
+    "$oid": "605389884bd3b119b8b12d5e"
+  },
+  "corpus": "G0106",
+  "entity": "THREAT-ACTOR"
+},{
+  "_id": {
+    "$oid": "605389884bd3b119b8b12d5f"
+  },
+  "corpus": "G0107",
+  "entity": "THREAT-ACTOR"
+},{
+  "_id": {
+    "$oid": "605389884bd3b119b8b12d60"
+  },
+  "corpus": "G0108",
+  "entity": "THREAT-ACTOR"
+},{
+  "_id": {
+    "$oid": "605389884bd3b119b8b12d61"
+  },
+  "corpus": "G0112",
+  "entity": "THREAT-ACTOR"
+},{
+  "_id": {
+    "$oid": "60538ba24bd3b119b8b12d62"
+  },
+  "corpus": "Axiom",
+  "entity": "THREAT-ACTOR"
+},{
+  "_id": {
+    "$oid": "60538ba24bd3b119b8b12d63"
+  },
+  "corpus": "Moafee",
+  "entity": "THREAT-ACTOR"
+},{
+  "_id": {
+    "$oid": "60538ba24bd3b119b8b12d64"
+  },
+  "corpus": "Cleaver",
+  "entity": "THREAT-ACTOR"
+},{
+  "_id": {
+    "$oid": "60538ba24bd3b119b8b12d65"
+  },
+  "corpus": "Ke3chang",
+  "entity": "THREAT-ACTOR"
+},{
+  "_id": {
+    "$oid": "60538ba24bd3b119b8b12d66"
+  },
+  "corpus": "APT12",
+  "entity": "THREAT-ACTOR"
+},{
+  "_id": {
+    "$oid": "60538ba24bd3b119b8b12d67"
+  },
+  "corpus": "APT1",
+  "entity": "THREAT-ACTOR"
+},{
+  "_id": {
+    "$oid": "60538ba24bd3b119b8b12d68"
+  },
+  "corpus": "APT28",
+  "entity": "THREAT-ACTOR"
+},{
+  "_id": {
+    "$oid": "60538ba24bd3b119b8b12d69"
+  },
+  "corpus": "Carbanak",
+  "entity": "THREAT-ACTOR"
+},{
+  "_id": {
+    "$oid": "60538ba24bd3b119b8b12d6a"
+  },
+  "corpus": "Deep Panda",
+  "entity": "THREAT-ACTOR"
+},{
+  "_id": {
+    "$oid": "60538ba24bd3b119b8b12d6b"
+  },
+  "corpus": "Turla",
+  "entity": "THREAT-ACTOR"
+},{
+  "_id": {
+    "$oid": "60538ba24bd3b119b8b12d6c"
+  },
+  "corpus": "PittyTiger",
+  "entity": "THREAT-ACTOR"
+},{
+  "_id": {
+    "$oid": "60538ba24bd3b119b8b12d6d"
+  },
+  "corpus": "Darkhotel",
+  "entity": "THREAT-ACTOR"
+},{
+  "_id": {
+    "$oid": "60538ba24bd3b119b8b12d6e"
+  },
+  "corpus": "APT30",
+  "entity": "THREAT-ACTOR"
+},{
+  "_id": {
+    "$oid": "60538ba24bd3b119b8b12d6f"
+  },
+  "corpus": "Night Dragon",
+  "entity": "THREAT-ACTOR"
+},{
+  "_id": {
+    "$oid": "60538ba24bd3b119b8b12d70"
+  },
+  "corpus": "Taidoor",
+  "entity": "THREAT-ACTOR"
+},{
+  "_id": {
+    "$oid": "60538ba24bd3b119b8b12d71"
+  },
+  "corpus": "APT29",
+  "entity": "THREAT-ACTOR"
+},{
+  "_id": {
+    "$oid": "60538ba24bd3b119b8b12d72"
+  },
+  "corpus": "DragonOK",
+  "entity": "THREAT-ACTOR"
+},{
+  "_id": {
+    "$oid": "60538ba24bd3b119b8b12d73"
+  },
+  "corpus": "admin@338",
+  "entity": "THREAT-ACTOR"
+},{
+  "_id": {
+    "$oid": "60538ba24bd3b119b8b12d74"
+  },
+  "corpus": "Naikon",
+  "entity": "THREAT-ACTOR"
+},{
+  "_id": {
+    "$oid": "60538ba24bd3b119b8b12d75"
+  },
+  "corpus": "Equation",
+  "entity": "THREAT-ACTOR"
+},{
+  "_id": {
+    "$oid": "60538ba24bd3b119b8b12d76"
+  },
+  "corpus": "Molerats",
+  "entity": "THREAT-ACTOR"
+},{
+  "_id": {
+    "$oid": "60538ba24bd3b119b8b12d77"
+  },
+  "corpus": "APT3",
+  "entity": "THREAT-ACTOR"
+},{
+  "_id": {
+    "$oid": "60538ba24bd3b119b8b12d78"
+  },
+  "corpus": "APT16",
+  "entity": "THREAT-ACTOR"
+},{
+  "_id": {
+    "$oid": "60538ba24bd3b119b8b12d79"
+  },
+  "corpus": "Putter Panda",
+  "entity": "THREAT-ACTOR"
+},{
+  "_id": {
+    "$oid": "60538ba24bd3b119b8b12d7a"
+  },
+  "corpus": "APT17",
+  "entity": "THREAT-ACTOR"
+},{
+  "_id": {
+    "$oid": "60538ba24bd3b119b8b12d7b"
+  },
+  "corpus": "APT18",
+  "entity": "THREAT-ACTOR"
+},{
+  "_id": {
+    "$oid": "60538ba24bd3b119b8b12d7c"
+  },
+  "corpus": "Threat Group-3390",
+  "entity": "THREAT-ACTOR"
+},{
+  "_id": {
+    "$oid": "60538ba24bd3b119b8b12d7d"
+  },
+  "corpus": "Threat Group-1314",
+  "entity": "THREAT-ACTOR"
+},{
+  "_id": {
+    "$oid": "60538ba24bd3b119b8b12d7e"
+  },
+  "corpus": "Scarlet Mimic",
+  "entity": "THREAT-ACTOR"
+},{
+  "_id": {
+    "$oid": "60538ba24bd3b119b8b12d7f"
+  },
+  "corpus": "Lotus Blossom",
+  "entity": "THREAT-ACTOR"
+},{
+  "_id": {
+    "$oid": "60538ba24bd3b119b8b12d80"
+  },
+  "corpus": "Dust Storm",
+  "entity": "THREAT-ACTOR"
+},{
+  "_id": {
+    "$oid": "60538ba24bd3b119b8b12d81"
+  },
+  "corpus": "Lazarus Group",
+  "entity": "THREAT-ACTOR"
+},{
+  "_id": {
+    "$oid": "60538ba24bd3b119b8b12d82"
+  },
+  "corpus": "Poseidon Group",
+  "entity": "THREAT-ACTOR"
+},{
+  "_id": {
+    "$oid": "60538ba24bd3b119b8b12d83"
+  },
+  "corpus": "Sandworm Team",
+  "entity": "THREAT-ACTOR"
+},{
+  "_id": {
+    "$oid": "60538ba24bd3b119b8b12d84"
+  },
+  "corpus": "Dragonfly",
+  "entity": "THREAT-ACTOR"
+},{
+  "_id": {
+    "$oid": "60538ba24bd3b119b8b12d85"
+  },
+  "corpus": "GCMAN",
+  "entity": "THREAT-ACTOR"
+},{
+  "_id": {
+    "$oid": "60538ba24bd3b119b8b12d86"
+  },
+  "corpus": "FIN6",
+  "entity": "THREAT-ACTOR"
+},{
+  "_id": {
+    "$oid": "60538ba24bd3b119b8b12d87"
+  },
+  "corpus": "Stealth Falcon",
+  "entity": "THREAT-ACTOR"
+},{
+  "_id": {
+    "$oid": "60538ba24bd3b119b8b12d88"
+  },
+  "corpus": "Suckfly",
+  "entity": "THREAT-ACTOR"
+},{
+  "_id": {
+    "$oid": "60538ba24bd3b119b8b12d89"
+  },
+  "corpus": "Patchwork",
+  "entity": "THREAT-ACTOR"
+},{
+  "_id": {
+    "$oid": "60538ba24bd3b119b8b12d8a"
+  },
+  "corpus": "Strider",
+  "entity": "THREAT-ACTOR"
+},{
+  "_id": {
+    "$oid": "60538ba24bd3b119b8b12d8b"
+  },
+  "corpus": "Group5",
+  "entity": "THREAT-ACTOR"
+},{
+  "_id": {
+    "$oid": "60538ba24bd3b119b8b12d8c"
+  },
+  "corpus": "Winnti Group",
+  "entity": "THREAT-ACTOR"
+},{
+  "_id": {
+    "$oid": "60538ba24bd3b119b8b12d8d"
+  },
+  "corpus": "menuPass",
+  "entity": "THREAT-ACTOR"
+},{
+  "_id": {
+    "$oid": "60538ba24bd3b119b8b12d8e"
+  },
+  "corpus": "FIN7",
+  "entity": "THREAT-ACTOR"
+},{
+  "_id": {
+    "$oid": "60538ba24bd3b119b8b12d8f"
+  },
+  "corpus": "Gamaredon Group",
+  "entity": "THREAT-ACTOR"
+},{
+  "_id": {
+    "$oid": "60538ba24bd3b119b8b12d90"
+  },
+  "corpus": "RTM",
+  "entity": "THREAT-ACTOR"
+},{
+  "_id": {
+    "$oid": "60538ba24bd3b119b8b12d91"
+  },
+  "corpus": "OilRig",
+  "entity": "THREAT-ACTOR"
+},{
+  "_id": {
+    "$oid": "60538ba24bd3b119b8b12d92"
+  },
+  "corpus": "APT32",
+  "entity": "THREAT-ACTOR"
+},{
+  "_id": {
+    "$oid": "60538ba24bd3b119b8b12d93"
+  },
+  "corpus": "FIN10",
+  "entity": "THREAT-ACTOR"
+},{
+  "_id": {
+    "$oid": "60538ba24bd3b119b8b12d94"
+  },
+  "corpus": "CopyKittens",
+  "entity": "THREAT-ACTOR"
+},{
+  "_id": {
+    "$oid": "60538ba24bd3b119b8b12d95"
+  },
+  "corpus": "FIN5",
+  "entity": "THREAT-ACTOR"
+},{
+  "_id": {
+    "$oid": "60538ba24bd3b119b8b12d96"
+  },
+  "corpus": "Sowbug",
+  "entity": "THREAT-ACTOR"
+},{
+  "_id": {
+    "$oid": "60538ba24bd3b119b8b12d97"
+  },
+  "corpus": "NEODYMIUM",
+  "entity": "THREAT-ACTOR"
+},{
+  "_id": {
+    "$oid": "60538ba24bd3b119b8b12d98"
+  },
+  "corpus": "PROMETHIUM",
+  "entity": "THREAT-ACTOR"
+},{
+  "_id": {
+    "$oid": "60538ba24bd3b119b8b12d99"
+  },
+  "corpus": "Charming Kitten",
+  "entity": "THREAT-ACTOR"
+},{
+  "_id": {
+    "$oid": "60538ba24bd3b119b8b12d9a"
+  },
+  "corpus": "Magic Hound",
+  "entity": "THREAT-ACTOR"
+},{
+  "_id": {
+    "$oid": "60538ba24bd3b119b8b12d9b"
+  },
+  "corpus": "BRONZE BUTLER",
+  "entity": "THREAT-ACTOR"
+},{
+  "_id": {
+    "$oid": "60538ba24bd3b119b8b12d9c"
+  },
+  "corpus": "FIN8",
+  "entity": "THREAT-ACTOR"
+},{
+  "_id": {
+    "$oid": "60538ba24bd3b119b8b12d9d"
+  },
+  "corpus": "TA459",
+  "entity": "THREAT-ACTOR"
+},{
+  "_id": {
+    "$oid": "60538ba24bd3b119b8b12d9e"
+  },
+  "corpus": "BlackOasis",
+  "entity": "THREAT-ACTOR"
+},{
+  "_id": {
+    "$oid": "60538ba24bd3b119b8b12d9f"
+  },
+  "corpus": "APT33",
+  "entity": "THREAT-ACTOR"
+},{
+  "_id": {
+    "$oid": "60538ba24bd3b119b8b12da0"
+  },
+  "corpus": "Leviathan",
+  "entity": "THREAT-ACTOR"
+},{
+  "_id": {
+    "$oid": "60538ba24bd3b119b8b12da1"
+  },
+  "corpus": "Elderwood",
+  "entity": "THREAT-ACTOR"
+},{
+  "_id": {
+    "$oid": "60538ba24bd3b119b8b12da2"
+  },
+  "corpus": "APT37",
+  "entity": "THREAT-ACTOR"
+},{
+  "_id": {
+    "$oid": "60538ba24bd3b119b8b12da3"
+  },
+  "corpus": "PLATINUM",
+  "entity": "THREAT-ACTOR"
+},{
+  "_id": {
+    "$oid": "60538ba24bd3b119b8b12da4"
+  },
+  "corpus": "MuddyWater",
+  "entity": "THREAT-ACTOR"
+},{
+  "_id": {
+    "$oid": "60538ba24bd3b119b8b12da5"
+  },
+  "corpus": "Dark Caracal",
+  "entity": "THREAT-ACTOR"
+},{
+  "_id": {
+    "$oid": "60538ba24bd3b119b8b12da6"
+  },
+  "corpus": "Orangeworm",
+  "entity": "THREAT-ACTOR"
+},{
+  "_id": {
+    "$oid": "60538ba24bd3b119b8b12da7"
+  },
+  "corpus": "Honeybee",
+  "entity": "THREAT-ACTOR"
+},{
+  "_id": {
+    "$oid": "60538ba24bd3b119b8b12da8"
+  },
+  "corpus": "APT19",
+  "entity": "THREAT-ACTOR"
+},{
+  "_id": {
+    "$oid": "60538ba24bd3b119b8b12da9"
+  },
+  "corpus": "Dragonfly 2.0",
+  "entity": "THREAT-ACTOR"
+},{
+  "_id": {
+    "$oid": "60538ba24bd3b119b8b12daa"
+  },
+  "corpus": "Rancor",
+  "entity": "THREAT-ACTOR"
+},{
+  "_id": {
+    "$oid": "60538ba24bd3b119b8b12dab"
+  },
+  "corpus": "Thrip",
+  "entity": "THREAT-ACTOR"
+},{
+  "_id": {
+    "$oid": "60538ba24bd3b119b8b12dac"
+  },
+  "corpus": "Leafminer",
+  "entity": "THREAT-ACTOR"
+},{
+  "_id": {
+    "$oid": "60538ba24bd3b119b8b12dad"
+  },
+  "corpus": "Gorgon Group",
+  "entity": "THREAT-ACTOR"
+},{
+  "_id": {
+    "$oid": "60538ba24bd3b119b8b12dae"
+  },
+  "corpus": "DarkHydrus",
+  "entity": "THREAT-ACTOR"
+},{
+  "_id": {
+    "$oid": "60538ba24bd3b119b8b12daf"
+  },
+  "corpus": "Cobalt Group",
+  "entity": "THREAT-ACTOR"
+},{
+  "_id": {
+    "$oid": "60538ba24bd3b119b8b12db0"
+  },
+  "corpus": "Tropic Trooper",
+  "entity": "THREAT-ACTOR"
+},{
+  "_id": {
+    "$oid": "60538ba24bd3b119b8b12db1"
+  },
+  "corpus": "APT38",
+  "entity": "THREAT-ACTOR"
+},{
+  "_id": {
+    "$oid": "60538ba24bd3b119b8b12db2"
+  },
+  "corpus": "SilverTerrier",
+  "entity": "THREAT-ACTOR"
+},{
+  "_id": {
+    "$oid": "60538ba24bd3b119b8b12db3"
+  },
+  "corpus": "Gallmaker",
+  "entity": "THREAT-ACTOR"
+},{
+  "_id": {
+    "$oid": "60538ba24bd3b119b8b12db4"
+  },
+  "corpus": "FIN4",
+  "entity": "THREAT-ACTOR"
+},{
+  "_id": {
+    "$oid": "60538ba24bd3b119b8b12db5"
+  },
+  "corpus": "Stolen Pencil",
+  "entity": "THREAT-ACTOR"
+},{
+  "_id": {
+    "$oid": "60538ba24bd3b119b8b12db6"
+  },
+  "corpus": "APT39",
+  "entity": "THREAT-ACTOR"
+},{
+  "_id": {
+    "$oid": "60538ba24bd3b119b8b12db7"
+  },
+  "corpus": "TEMP.Veles",
+  "entity": "THREAT-ACTOR"
+},{
+  "_id": {
+    "$oid": "60538ba24bd3b119b8b12db8"
+  },
+  "corpus": "The White Company",
+  "entity": "THREAT-ACTOR"
+},{
+  "_id": {
+    "$oid": "60538ba24bd3b119b8b12db9"
+  },
+  "corpus": "WIRTE",
+  "entity": "THREAT-ACTOR"
+},{
+  "_id": {
+    "$oid": "60538ba24bd3b119b8b12dba"
+  },
+  "corpus": "Silence",
+  "entity": "THREAT-ACTOR"
+},{
+  "_id": {
+    "$oid": "60538ba24bd3b119b8b12dbb"
+  },
+  "corpus": "TA505",
+  "entity": "THREAT-ACTOR"
+},{
+  "_id": {
+    "$oid": "60538ba24bd3b119b8b12dbc"
+  },
+  "corpus": "Soft Cell",
+  "entity": "THREAT-ACTOR"
+},{
+  "_id": {
+    "$oid": "60538ba24bd3b119b8b12dbd"
+  },
+  "corpus": "Kimsuky",
+  "entity": "THREAT-ACTOR"
+},{
+  "_id": {
+    "$oid": "60538ba24bd3b119b8b12dbe"
+  },
+  "corpus": "Machete",
+  "entity": "THREAT-ACTOR"
+},{
+  "_id": {
+    "$oid": "60538ba24bd3b119b8b12dbf"
+  },
+  "corpus": "APT41",
+  "entity": "THREAT-ACTOR"
+},{
+  "_id": {
+    "$oid": "60538ba24bd3b119b8b12dc0"
+  },
+  "corpus": "BlackTech",
+  "entity": "THREAT-ACTOR"
+},{
+  "_id": {
+    "$oid": "60538ba24bd3b119b8b12dc1"
+  },
+  "corpus": "APT-C-36",
+  "entity": "THREAT-ACTOR"
+},{
+  "_id": {
+    "$oid": "60538ba24bd3b119b8b12dc2"
+  },
+  "corpus": "Inception",
+  "entity": "THREAT-ACTOR"
+},{
+  "_id": {
+    "$oid": "60538ba24bd3b119b8b12dc3"
+  },
+  "corpus": "Frankenstein",
+  "entity": "THREAT-ACTOR"
+},{
+  "_id": {
+    "$oid": "60538ba24bd3b119b8b12dc4"
+  },
+  "corpus": "Wizard Spider",
+  "entity": "THREAT-ACTOR"
+},{
+  "_id": {
+    "$oid": "60538ba24bd3b119b8b12dc5"
+  },
+  "corpus": "Mofang",
+  "entity": "THREAT-ACTOR"
+},{
+  "_id": {
+    "$oid": "60538ba24bd3b119b8b12dc6"
+  },
+  "corpus": "Sharpshooter",
+  "entity": "THREAT-ACTOR"
+},{
+  "_id": {
+    "$oid": "60538ba24bd3b119b8b12dc7"
+  },
+  "corpus": "DarkVishnya",
+  "entity": "THREAT-ACTOR"
+},{
+  "_id": {
+    "$oid": "60538ba24bd3b119b8b12dc8"
+  },
+  "corpus": "Rocke",
+  "entity": "THREAT-ACTOR"
+},{
+  "_id": {
+    "$oid": "60538ba24bd3b119b8b12dc9"
+  },
+  "corpus": "Whitefly",
+  "entity": "THREAT-ACTOR"
+},{
+  "_id": {
+    "$oid": "60538ba24bd3b119b8b12dca"
+  },
+  "corpus": "Blue Mockingbird",
+  "entity": "THREAT-ACTOR"
+},{
+  "_id": {
+    "$oid": "60538ba24bd3b119b8b12dcb"
+  },
+  "corpus": "Windshift",
+  "entity": "THREAT-ACTOR"
+}]
