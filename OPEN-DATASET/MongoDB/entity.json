@@ -52,7 +52,7 @@
       "$oid": "60534d7b1b792af8aaa87c14"
     },
     "entity": "SOFTWARE",
-    "regexr": true,
+    "regexr": false,
     "discription": ""
   },
   {
@@ -69,7 +69,7 @@
     },
     "entity": "VULNERABILITY",
     "regexr": true,
-    "discription": ""
+    "discription": "CVE"
   },
   {
     "_id": {
