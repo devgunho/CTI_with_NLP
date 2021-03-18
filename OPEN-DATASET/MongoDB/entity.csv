@@ -1,0 +1,20 @@
+_id,discription,entity,regexr
+60534d7b1b792af8aaa87c0e,Attack Pattern + Tactics + Techniques,ATTACK-METHOD,false
+60534d7b1b792af8aaa87c0f,,GOAL,false
+60534d7b1b792af8aaa87c10,"Bank, Institution, etc.",TARGET,false
+60534d7b1b792af8aaa87c11,,LOCATION,false
+60534d7b1b792af8aaa87c12,Results detected by AV (name),MALWARE,false
+60534d7b1b792af8aaa87c13,,THREAT-ACTOR,false
+60534d7b1b792af8aaa87c14,,SOFTWARE,false
+60534d7b1b792af8aaa87c15,,MITIGATIONS,false
+60534d7b1b792af8aaa87c16,CVE,VULNERABILITY,true
+60534d7b1b792af8aaa87c17,,DICTIONARY,false
+60534d7b1b792af8aaa87c18,,EMAIL,true
+60534d7b1b792af8aaa87c19,,FILE,true
+60534d7b1b792af8aaa87c1a,,IP,true
+60534d7b1b792af8aaa87c1b,,MAC,true
+60534d7b1b792af8aaa87c1c,,URL,true
+60534d7b1b792af8aaa87c1d,,WIN-REG-KEY,true
+60534d7b1b792af8aaa87c1e,"Equipment (Computer, DB, etc.)",ASSET,false
+60534d7b1b792af8aaa87c1f,,TIME,false
+60534d7b1b792af8aaa87c20,,HASH,true
