@@ -1,154 +1,134 @@
-[
-  {
-    "_id": {
-      "$oid": "60534d7b1b792af8aaa87c0e"
-    },
-    "entity": "ATTACK-METHOD",
-    "regexr": false,
-    "discription": "Attack Pattern + Tactics + Techniques"
+[{
+  "_id": {
+    "$oid": "60534d7b1b792af8aaa87c0e"
   },
-  {
-    "_id": {
-      "$oid": "60534d7b1b792af8aaa87c0f"
-    },
-    "entity": "GOAL",
-    "regexr": false,
-    "discription": ""
+  "entity": "ATTACK-METHOD",
+  "regexr": false,
+  "discription": "Attack Pattern + Tactics + Techniques"
+},{
+  "_id": {
+    "$oid": "60534d7b1b792af8aaa87c0f"
   },
-  {
-    "_id": {
-      "$oid": "60534d7b1b792af8aaa87c10"
-    },
-    "entity": "TARGET",
-    "regexr": false,
-    "discription": "Bank, Institution, etc."
+  "entity": "GOAL",
+  "regexr": false,
+  "discription": ""
+},{
+  "_id": {
+    "$oid": "60534d7b1b792af8aaa87c10"
   },
-  {
-    "_id": {
-      "$oid": "60534d7b1b792af8aaa87c11"
-    },
-    "entity": "LOCATION",
-    "regexr": false,
-    "discription": ""
+  "entity": "TARGET",
+  "regexr": false,
+  "discription": "Bank, Institution, etc."
+},{
+  "_id": {
+    "$oid": "60534d7b1b792af8aaa87c11"
   },
-  {
-    "_id": {
-      "$oid": "60534d7b1b792af8aaa87c12"
-    },
-    "entity": "MALWARE",
-    "regexr": false,
-    "discription": "Results detected by AV (name)"
+  "entity": "LOCATION",
+  "regexr": false,
+  "discription": "Country, City"
+},{
+  "_id": {
+    "$oid": "60534d7b1b792af8aaa87c12"
   },
-  {
-    "_id": {
-      "$oid": "60534d7b1b792af8aaa87c13"
-    },
-    "entity": "THREAT-ACTOR",
-    "regexr": false,
-    "discription": ""
+  "entity": "MALWARE",
+  "regexr": false,
+  "discription": "Results detected by AV (name)"
+},{
+  "_id": {
+    "$oid": "60534d7b1b792af8aaa87c13"
   },
-  {
-    "_id": {
-      "$oid": "60534d7b1b792af8aaa87c14"
-    },
-    "entity": "SOFTWARE",
-    "regexr": false,
-    "discription": ""
+  "entity": "THREAT-ACTOR",
+  "regexr": false,
+  "discription": ""
+},{
+  "_id": {
+    "$oid": "60534d7b1b792af8aaa87c14"
   },
-  {
-    "_id": {
-      "$oid": "60534d7b1b792af8aaa87c15"
-    },
-    "entity": "MITIGATIONS",
-    "regexr": false,
-    "discription": ""
+  "entity": "SOFTWARE",
+  "regexr": false,
+  "discription": ""
+},{
+  "_id": {
+    "$oid": "60534d7b1b792af8aaa87c15"
   },
-  {
-    "_id": {
-      "$oid": "60534d7b1b792af8aaa87c16"
-    },
-    "entity": "VULNERABILITY",
-    "regexr": true,
-    "discription": "CVE"
+  "entity": "MITIGATIONS",
+  "regexr": false,
+  "discription": "Preventing exploits through vulnerabilities"
+},{
+  "_id": {
+    "$oid": "60534d7b1b792af8aaa87c16"
   },
-  {
-    "_id": {
-      "$oid": "60534d7b1b792af8aaa87c17"
-    },
-    "entity": "DICTIONARY",
-    "regexr": false,
-    "discription": ""
+  "entity": "VULNERABILITY",
+  "regexr": true,
+  "discription": "CVE"
+},{
+  "_id": {
+    "$oid": "60534d7b1b792af8aaa87c17"
   },
-  {
-    "_id": {
-      "$oid": "60534d7b1b792af8aaa87c18"
-    },
-    "entity": "EMAIL",
-    "regexr": true,
-    "discription": ""
+  "entity": "DICTIONARY",
+  "regexr": false,
+  "discription": ""
+},{
+  "_id": {
+    "$oid": "60534d7b1b792af8aaa87c18"
   },
-  {
-    "_id": {
-      "$oid": "60534d7b1b792af8aaa87c19"
-    },
-    "entity": "FILE",
-    "regexr": true,
-    "discription": ""
+  "entity": "EMAIL",
+  "regexr": true,
+  "discription": ""
+},{
+  "_id": {
+    "$oid": "60534d7b1b792af8aaa87c19"
   },
-  {
-    "_id": {
-      "$oid": "60534d7b1b792af8aaa87c1a"
-    },
-    "entity": "IP",
-    "regexr": true,
-    "discription": ""
+  "entity": "FILE",
+  "regexr": true,
+  "discription": ""
+},{
+  "_id": {
+    "$oid": "60534d7b1b792af8aaa87c1a"
   },
-  {
-    "_id": {
-      "$oid": "60534d7b1b792af8aaa87c1b"
-    },
-    "entity": "MAC",
-    "regexr": true,
-    "discription": ""
+  "entity": "IP",
+  "regexr": true,
+  "discription": ""
+},{
+  "_id": {
+    "$oid": "60534d7b1b792af8aaa87c1b"
   },
-  {
-    "_id": {
-      "$oid": "60534d7b1b792af8aaa87c1c"
-    },
-    "entity": "URL",
-    "regexr": true,
-    "discription": ""
+  "entity": "MAC",
+  "regexr": true,
+  "discription": ""
+},{
+  "_id": {
+    "$oid": "60534d7b1b792af8aaa87c1c"
   },
-  {
-    "_id": {
-      "$oid": "60534d7b1b792af8aaa87c1d"
-    },
-    "entity": "WIN-REG-KEY",
-    "regexr": true,
-    "discription": ""
+  "entity": "URL",
+  "regexr": true,
+  "discription": ""
+},{
+  "_id": {
+    "$oid": "60534d7b1b792af8aaa87c1d"
   },
-  {
-    "_id": {
-      "$oid": "60534d7b1b792af8aaa87c1e"
-    },
-    "entity": "ASSET",
-    "regexr": false,
-    "discription": "Equipment (Computer, DB, etc.)"
+  "entity": "WIN-REG-KEY",
+  "regexr": true,
+  "discription": ""
+},{
+  "_id": {
+    "$oid": "60534d7b1b792af8aaa87c1e"
   },
-  {
-    "_id": {
-      "$oid": "60534d7b1b792af8aaa87c1f"
-    },
-    "entity": "TIME",
-    "regexr": false,
-    "discription": ""
+  "entity": "ASSET",
+  "regexr": false,
+  "discription": "Equipment (Computer, DB, etc.)"
+},{
+  "_id": {
+    "$oid": "60534d7b1b792af8aaa87c1f"
   },
-  {
-    "_id": {
-      "$oid": "60534d7b1b792af8aaa87c20"
-    },
-    "entity": "HASH",
-    "regexr": true,
-    "discription": ""
-  }
-]
+  "entity": "TIME",
+  "regexr": false,
+  "discription": ""
+},{
+  "_id": {
+    "$oid": "60534d7b1b792af8aaa87c20"
+  },
+  "entity": "HASH",
+  "regexr": true,
+  "discription": ""
+}]
