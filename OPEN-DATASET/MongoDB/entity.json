@@ -51,7 +51,7 @@
   "_id": {
     "$oid": "60534d7b1b792af8aaa87c15"
   },
-  "entity": "MITIGATIONS",
+  "entity": "MITIGATION",
   "regexr": false,
   "discription": "Preventing exploits through vulnerabilities"
 },{
