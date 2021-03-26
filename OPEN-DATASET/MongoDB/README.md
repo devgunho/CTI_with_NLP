@@ -61,7 +61,6 @@ db.dictionary.dropIndexes();
 
 ```js
 db.getCollection("dictionary").find({ entity: "LOCATION" });
-
 ```
 
 #### Add field if conditions are correct
@@ -70,6 +69,13 @@ db.getCollection("dictionary").find({ entity: "LOCATION" });
 db.dictionary.updateMany(
   { entity: "LOCATION" },
   { $set: { category: "location" } }
+);
+```
+
+```
+db.dictionary.updateMany(
+  { entity: "MITIGATIONS" },
+  { $set: { entity: "MITIGATION" } }
 );
 ```
 
