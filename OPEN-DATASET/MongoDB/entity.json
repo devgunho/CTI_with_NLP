@@ -7,13 +7,6 @@
   "discription": "Attack Pattern + Tactics + Techniques"
 },{
   "_id": {
-    "$oid": "60534d7b1b792af8aaa87c0f"
-  },
-  "entity": "GOAL",
-  "regexr": false,
-  "discription": ""
-},{
-  "_id": {
     "$oid": "60534d7b1b792af8aaa87c10"
   },
   "entity": "TARGET",
@@ -63,23 +56,9 @@
   "discription": "CVE"
 },{
   "_id": {
-    "$oid": "60534d7b1b792af8aaa87c17"
-  },
-  "entity": "DIRECTORY",
-  "regexr": false,
-  "discription": ""
-},{
-  "_id": {
     "$oid": "60534d7b1b792af8aaa87c18"
   },
   "entity": "EMAIL",
-  "regexr": true,
-  "discription": ""
-},{
-  "_id": {
-    "$oid": "60534d7b1b792af8aaa87c19"
-  },
-  "entity": "FILE",
   "regexr": true,
   "discription": ""
 },{
@@ -108,7 +87,7 @@
     "$oid": "60534d7b1b792af8aaa87c1d"
   },
   "entity": "WIN-REG-KEY",
-  "regexr": true,
+  "regexr": false,
   "discription": ""
 },{
   "_id": {
@@ -116,7 +95,7 @@
   },
   "entity": "ASSET",
   "regexr": false,
-  "discription": "Equipment (Computer, DB, etc.)"
+  "discription": "HW Equipment (Device)"
 },{
   "_id": {
     "$oid": "60534d7b1b792af8aaa87c1f"
@@ -130,5 +109,19 @@
   },
   "entity": "HASH",
   "regexr": true,
+  "discription": ""
+},{
+  "_id": {
+    "$oid": "60667f50ff2336657e35299c"
+  },
+  "entity": "PERSON",
+  "regexr": false,
+  "discription": ""
+},{
+  "_id": {
+    "$oid": "60667f50ff2336657e35299d"
+  },
+  "entity": "ORGANIZATION",
+  "regexr": false,
   "discription": ""
 }]
