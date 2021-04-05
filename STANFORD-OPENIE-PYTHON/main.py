@@ -1,12 +1,12 @@
 from openie import StanfordOpenIE
 
 with StanfordOpenIE() as client:
-    text = 'AhnLab ASEC Analysis Team has been monitoring BlueCrab(=Sodinokibi) ransomware in form of Javascript distributed via phishing download page.'
+    text = 'BlueCrab(=Sodinokibi) ransomware in form of Javascript distributed via phishing download page.'
     print('Text: %s.' % text)
     for triple in client.annotate(text):
         print('|-', triple)
 
-    graph_image = 'graph2.png'
+    graph_image = 'graph3.png'
     client.generate_graphviz_graph(text, graph_image)
     print('Graph generated: %s.' % graph_image)
 

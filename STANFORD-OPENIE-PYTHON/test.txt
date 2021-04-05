@@ -1,3 +1,4 @@
 0. The decoded data is an info-stealing malware, also known as Formbook.
 1. Encoded CVE-2019-1367 Vulnerability Script
 2. AhnLab ASEC Analysis Team has been monitoring BlueCrab(=Sodinokibi) ransomware in form of Javascript distributed via phishing download page.
+3. BlueCrab(=Sodinokibi) ransomware in form of Javascript distributed via phishing download page.
