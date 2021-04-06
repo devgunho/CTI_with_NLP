@@ -6,8 +6,8 @@
    <rect>
     <x>0</x>
     <y>0</y>
-    <width>591</width>
-    <height>1027</height>
+    <width>613</width>
+    <height>1505</height>
    </rect>
   </property>
   <property name="windowTitle">
@@ -27,12 +27,12 @@
      <string>LOAD</string>
     </property>
    </widget>
-   <widget class="QLineEdit" name="lineEdit">
+   <widget class="QLineEdit" name="pathText">
     <property name="geometry">
      <rect>
       <x>120</x>
       <y>20</y>
-      <width>441</width>
+      <width>481</width>
       <height>20</height>
      </rect>
     </property>
@@ -40,10 +40,40 @@
    <widget class="QTableWidget" name="tableWidget">
     <property name="geometry">
      <rect>
-      <x>30</x>
+      <x>20</x>
       <y>60</y>
-      <width>531</width>
+      <width>581</width>
       <height>261</height>
+     </rect>
+    </property>
+   </widget>
+   <widget class="QTableWidget" name="tableWidget_2">
+    <property name="geometry">
+     <rect>
+      <x>20</x>
+      <y>530</y>
+      <width>301</width>
+      <height>601</height>
+     </rect>
+    </property>
+   </widget>
+   <widget class="QListWidget" name="listWidget">
+    <property name="geometry">
+     <rect>
+      <x>340</x>
+      <y>530</y>
+      <width>256</width>
+      <height>601</height>
+     </rect>
+    </property>
+   </widget>
+   <widget class="QListView" name="listView">
+    <property name="geometry">
+     <rect>
+      <x>20</x>
+      <y>330</y>
+      <width>581</width>
+      <height>192</height>
      </rect>
     </property>
    </widget>
@@ -53,7 +83,7 @@
     <rect>
      <x>0</x>
      <y>0</y>
-     <width>591</width>
+     <width>613</width>
      <height>21</height>
     </rect>
    </property>

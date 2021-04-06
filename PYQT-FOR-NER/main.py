@@ -8,6 +8,8 @@ import file_open_easygui as fopen
 
 form_class = uic.loadUiType("main_window.ui")[0]
 
+article = []
+
 
 class MyWindow(QMainWindow, form_class):
     def __init__(self):
@@ -20,6 +22,9 @@ class MyWindow(QMainWindow, form_class):
         print("LOAD Button Clicked.")
         absPath = fopen.OpenWinFileExplorer()
         print(absPath)
+        self.pathText.setText(absPath)
+        lines = open(absPath, encoding='UTF-8').readlines()
+        print(lines)
 
 
 if __name__ == "__main__":
