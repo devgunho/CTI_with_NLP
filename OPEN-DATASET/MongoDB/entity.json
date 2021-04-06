@@ -88,7 +88,7 @@
   },
   "entity": "WIN-REG-KEY",
   "regexr": false,
-  "discription": ""
+  "discription": "Registry path on Windows"
 },{
   "_id": {
     "$oid": "60534d7b1b792af8aaa87c1e"
@@ -102,26 +102,26 @@
   },
   "entity": "TIME",
   "regexr": false,
-  "discription": ""
+  "discription": "Various notations related to time"
 },{
   "_id": {
     "$oid": "60534d7b1b792af8aaa87c20"
   },
   "entity": "HASH",
   "regexr": true,
-  "discription": ""
+  "discription": "Hash value using various hash algorithms"
 },{
   "_id": {
     "$oid": "60667f50ff2336657e35299c"
   },
   "entity": "PERSON",
   "regexr": false,
-  "discription": ""
+  "discription": "The unique name of a specific person, such as a CEO, businessperson, or politician."
 },{
   "_id": {
     "$oid": "60667f50ff2336657e35299d"
   },
   "entity": "ORGANIZATION",
   "regexr": false,
-  "discription": ""
+  "discription": "Company names such as Microsoft, Apple, and organization names other than attackers."
 }]

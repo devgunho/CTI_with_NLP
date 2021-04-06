@@ -11,9 +11,9 @@ _id,discription,entity,regexr
 60534d7b1b792af8aaa87c1a,,IP,true
 60534d7b1b792af8aaa87c1b,,MAC,true
 60534d7b1b792af8aaa87c1c,,URL,true
-60534d7b1b792af8aaa87c1d,,WIN-REG-KEY,false
+60534d7b1b792af8aaa87c1d,Registry path on Windows,WIN-REG-KEY,false
 60534d7b1b792af8aaa87c1e,HW Equipment (Device),ASSET,false
-60534d7b1b792af8aaa87c1f,,TIME,false
-60534d7b1b792af8aaa87c20,,HASH,true
-60667f50ff2336657e35299c,,PERSON,false
-60667f50ff2336657e35299d,,ORGANIZATION,false
+60534d7b1b792af8aaa87c1f,Various notations related to time,TIME,false
+60534d7b1b792af8aaa87c20,Hash value using various hash algorithms,HASH,true
+60667f50ff2336657e35299c,"The unique name of a specific person, such as a CEO, businessperson, or politician.",PERSON,false
+60667f50ff2336657e35299d,"Company names such as Microsoft, Apple, and organization names other than attackers.",ORGANIZATION,false
