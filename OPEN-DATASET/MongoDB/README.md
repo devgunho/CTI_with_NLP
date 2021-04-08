@@ -57,11 +57,17 @@ db.dictionary.getIndexes();
 db.dictionary.dropIndexes();
 ```
 
+<br/>
+
 #### db.collection.find()
 
 ```js
 db.getCollection("dictionary").find({ entity: "LOCATION" });
+
+db.getCollection("dictionary").find({ category: "filename-extensions" });
 ```
+
+<br/>
 
 #### Add field if conditions are correct
 
@@ -79,3 +85,10 @@ db.dictionary.updateMany(
 );
 ```
 
+<br/>
+
+#### Removes all documents that match the `filter` from a collection.
+
+```
+db.dictionary.deleteMany({ category: "filename-extensions" });
+```

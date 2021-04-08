@@ -111,6 +111,8 @@ If you find errors or typos in the site content, please let us know by sending a
    - `docker run --name <your_preferred_container_name -d -p <your_preferred_port>:80 <image_name_from_build_command>`
 3. View the site on your preferred localhost port
 
+<br/>
+
 ## Related MITRE Work
 
 #### CTI
