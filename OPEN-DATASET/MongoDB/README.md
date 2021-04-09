@@ -91,4 +91,5 @@ db.dictionary.updateMany(
 
 ```
 db.dictionary.deleteMany({ category: "filename-extensions" });
+db.dictionary.deleteMany({ category: "cve-ver-20061101" });
 ```
