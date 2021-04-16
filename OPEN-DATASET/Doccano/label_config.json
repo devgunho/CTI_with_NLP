@@ -1,0 +1,146 @@
+[
+  {
+    "id": 1,
+    "text": "ATTACK-METHOD",
+    "prefixKey": null,
+    "suffixKey": "1",
+    "backgroundColor": "#F44336",
+    "textColor": "#ffffff"
+  },
+  {
+    "id": 2,
+    "text": "TARGET",
+    "prefixKey": null,
+    "suffixKey": "2",
+    "backgroundColor": "#E91E63",
+    "textColor": "#ffffff"
+  },
+  {
+    "id": 3,
+    "text": "LOCATION",
+    "prefixKey": null,
+    "suffixKey": "3",
+    "backgroundColor": "#9C27B0",
+    "textColor": "#ffffff"
+  },
+  {
+    "id": 4,
+    "text": "MALWARE",
+    "prefixKey": null,
+    "suffixKey": "4",
+    "backgroundColor": "#673AB7",
+    "textColor": "#ffffff"
+  },
+  {
+    "id": 5,
+    "text": "THREAT-ACTOR",
+    "prefixKey": null,
+    "suffixKey": "5",
+    "backgroundColor": "#3F51B5",
+    "textColor": "#ffffff"
+  },
+  {
+    "id": 6,
+    "text": "SOFTWARE",
+    "prefixKey": null,
+    "suffixKey": "6",
+    "backgroundColor": "#2196F3",
+    "textColor": "#ffffff"
+  },
+  {
+    "id": 7,
+    "text": "MITIGATION",
+    "prefixKey": null,
+    "suffixKey": "7",
+    "backgroundColor": "#03A9F4",
+    "textColor": "#ffffff"
+  },
+  {
+    "id": 8,
+    "text": "VULNERABILITY",
+    "prefixKey": null,
+    "suffixKey": "8",
+    "backgroundColor": "#00BCD4",
+    "textColor": "#ffffff"
+  },
+  {
+    "id": 9,
+    "text": "EMAIL",
+    "prefixKey": null,
+    "suffixKey": "9",
+    "backgroundColor": "#009688",
+    "textColor": "#ffffff"
+  },
+  {
+    "id": 10,
+    "text": "IP",
+    "prefixKey": null,
+    "suffixKey": "a",
+    "backgroundColor": "#4CAF50",
+    "textColor": "#ffffff"
+  },
+  {
+    "id": 11,
+    "text": "MAC",
+    "prefixKey": null,
+    "suffixKey": "b",
+    "backgroundColor": "#8BC34A",
+    "textColor": "#ffffff"
+  },
+  {
+    "id": 12,
+    "text": "URL",
+    "prefixKey": null,
+    "suffixKey": "c",
+    "backgroundColor": "#FFEB3B",
+    "textColor": "#ffffff"
+  },
+  {
+    "id": 13,
+    "text": "WIN-REG-KEY",
+    "prefixKey": null,
+    "suffixKey": "d",
+    "backgroundColor": "#FFC107",
+    "textColor": "#ffffff"
+  },
+  {
+    "id": 14,
+    "text": "ASSET",
+    "prefixKey": null,
+    "suffixKey": "e",
+    "backgroundColor": "#FF9800",
+    "textColor": "#ffffff"
+  },
+  {
+    "id": 15,
+    "text": "TIME",
+    "prefixKey": null,
+    "suffixKey": "f",
+    "backgroundColor": "#FF5722",
+    "textColor": "#ffffff"
+  },
+  {
+    "id": 16,
+    "text": "HASH",
+    "prefixKey": null,
+    "suffixKey": "g",
+    "backgroundColor": "#795548",
+    "textColor": "#ffffff"
+  },
+  {
+    "id": 17,
+    "text": "PERSON",
+    "prefixKey": null,
+    "suffixKey": "h",
+    "backgroundColor": "#607D8B",
+    "textColor": "#ffffff"
+  },
+  {
+    "id": 18,
+    "text": "ORGANIZATION",
+    "prefixKey": null,
+    "suffixKey": "i",
+    "backgroundColor": "#000000",
+    "textColor": "#ffffff"
+  }
+]
