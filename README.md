@@ -6,11 +6,15 @@ CTI (Cyber Threat Intelligence) with NLP
 ## Table of Contents
 
 - Text Data Preprocessing
+  - Modin : Get faster pandas with Modin
   - doccano : https://github.com/doccano/doccano
 - Natural Language Processing
-  - Modin
+  - spaCy
 - Text Data Archiving and Management
   - MongoDB
+- Reference
+  - STIX / TAXI
+  - MITRE ATT&CK
 
 <br/>
 
