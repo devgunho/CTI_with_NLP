@@ -1,6 +1,84 @@
 # Reference Datasets for CTI NER tagging
 
-### # **CoNLL 2003 (English) Dataset**
+## # MongoDB
+
+### My Own Instructions
+
+#### db.collection.insertMany()
+
+```json
+db.collection.insertMany([
+  { item: "journal", qty: 25, size: { h: 14, w: 21, uom: "cm" }, status: "A" },
+  {
+    item: "notebook",
+    qty: 50,
+    size: { h: 8.5, w: 11, uom: "in" },
+    status: "A",
+  },
+  { item: "paper", qty: 100, size: { h: 8.5, w: 11, uom: "in" }, status: "D" },
+  {
+    item: "planner",
+    qty: 75,
+    size: { h: 22.85, w: 30, uom: "cm" },
+    status: "D",
+  },
+  {
+    item: "postcard",
+    qty: 45,
+    size: { h: 10, w: 15.25, uom: "cm" },
+    status: "A",
+  },
+]);
+db.dictionary.update({}, { $rename: { ner: "entity" } }, false, true);
+db.dictionary.createIndex({ corpus: 1 }, { unique: true });
+
+db.entity.createIndex({ entity: 1 }, { unique: true });
+db.entity.insert([{ entity: "IP" }]);
+//E11000 duplicate key error collection: CTI-DICTIONARY.entity index: entity_1 dup key: { entity: "IP" }
+
+db.dictionary.getIndexes();
+db.dictionary.dropIndexes();
+```
+
+<br/>
+
+#### db.collection.find()
+
+```json
+db.getCollection("dictionary").find({ entity: "LOCATION" });
+
+db.getCollection("dictionary").find({ category: "filename-extensions" });
+```
+
+<br/>
+
+#### Add field if conditions are correct
+
+```json
+db.dictionary.updateMany(
+  { entity: "LOCATION" },
+  { $set: { category: "location" } }
+);
+db.dictionary.updateMany(
+  { entity: "MITIGATIONS" },
+  { $set: { entity: "MITIGATION" } }
+);
+```
+
+<br/>
+
+#### Removes all documents that match the `filter` from a collection.
+
+```json
+db.dictionary.deleteMany({ category: "filename-extensions" });
+db.dictionary.deleteMany({ category: "cve-ver-20061101" });
+```
+
+<br/>
+
+<br/>
+
+## # **CoNLL 2003 (English) Dataset**
 
 > https://deepai.org/dataset/conll-2003-english
 
@@ -44,9 +122,9 @@ Friday NNP B-NP O
   827443 valid.txt
 ```
 
------
+<br/>
 
-
+<br/>
 
 ## # MITRE ATT&CTK® Website
 
@@ -86,6 +164,8 @@ If you find errors or typos in the site content, please let us know by sending a
    - Windows: `env/Scripts/activate.bat`
 3. Install requirement packages: `pip3 install -r requirements.txt`
 
+<br/>
+
 ### Build and serve the local site
 
 1. Update ATT&CK markdown from the STIX content, and generate the output html from the markdown: `python3 update-attack.py`. *Note: `update-attack.py`, has many optional command line arguments which affect the behavior of the build. Run `python3 update-attack.py -h` for a list of arguments and an explanation of their functionality.*
@@ -103,6 +183,8 @@ If you find errors or typos in the site content, please let us know by sending a
    1. `cd output`
    2. `python3 -m pelican.server`
 
+<br/>
+
 ### Installing, building, and serving the site via Docker
 
 1. Build the docker image:
@@ -113,7 +195,7 @@ If you find errors or typos in the site content, please let us know by sending a
 
 <br/>
 
-## Related MITRE Work
+### Related MITRE Work
 
 #### CTI
 
@@ -135,7 +217,9 @@ STIX is designed to improve many different capabilities, such as collaborative t
 
 https://oasis-open.github.io/cti-documentation/
 
-## Notice
+<br/>
+
+### Notice
 
 Copyright 2015-2020 The MITRE Corporation
 
