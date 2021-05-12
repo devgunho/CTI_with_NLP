@@ -60,6 +60,10 @@ db.dictionary.updateMany(
   { $set: { category: "location" } }
 );
 db.dictionary.updateMany(
+  { entity: "THREAT-ACTOR" },
+  { $set: { category: "mitre-groups" } }
+);
+db.dictionary.updateMany(
   { entity: "MITIGATIONS" },
   { $set: { entity: "MITIGATION" } }
 );
