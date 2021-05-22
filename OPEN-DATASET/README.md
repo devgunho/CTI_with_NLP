@@ -1,12 +1,14 @@
 # Reference Datasets for CTI NER tagging
 
+<br/>
+
 ## # MongoDB
 
 ### My Own Instructions
 
 #### db.collection.insertMany()
 
-```json
+```
 db.collection.insertMany([
   { item: "journal", qty: 25, size: { h: 14, w: 21, uom: "cm" }, status: "A" },
   {
@@ -44,17 +46,18 @@ db.dictionary.dropIndexes();
 
 #### db.collection.find()
 
-```json
+```
 db.getCollection("dictionary").find({ entity: "LOCATION" });
-
 db.getCollection("dictionary").find({ category: "filename-extensions" });
+db.getCollection("dictionary").find({ entity: "HASH" });
+db.getCollection("dictionary").find({ corpus: "Suzhou" });
 ```
 
 <br/>
 
 #### Add field if conditions are correct
 
-```json
+```
 db.dictionary.updateMany(
   { entity: "LOCATION" },
   { $set: { category: "location" } }
@@ -67,15 +70,32 @@ db.dictionary.updateMany(
   { entity: "MITIGATIONS" },
   { $set: { entity: "MITIGATION" } }
 );
+db.dictionary.updateMany(
+  { category: "HASH-md5" },
+  { $set: { category: "hash-md5" } }
+);
+db.dictionary.updateMany(
+  { category: "HASH-sha256" },
+  { $set: { category: "hash-sha256" } }
+);
+db.dictionary.updateMany(
+  { category: "HASH-sha1" },
+  { $set: { category: "hash-sha1" } }
+);
+db.dictionary.updateMany(
+  { category: "location" },
+  { $set: { category: "location-country" } }
+);
 ```
 
 <br/>
 
 #### Removes all documents that match the `filter` from a collection.
 
-```json
+```
 db.dictionary.deleteMany({ category: "filename-extensions" });
 db.dictionary.deleteMany({ category: "cve-ver-20061101" });
+db.dictionary.deleteMany({ category: "location-city" });
 ```
 
 <br/>
@@ -174,18 +194,10 @@ If you find errors or typos in the site content, please let us know by sending a
 
 1. Update ATT&CK markdown from the STIX content, and generate the output html from the markdown: `python3 update-attack.py`. *Note: `update-attack.py`, has many optional command line arguments which affect the behavior of the build. Run `python3 update-attack.py -h` for a list of arguments and an explanation of their functionality.*
 
-2. Serve the html to
-
-    
-
-   ```
-   localhost:8000
-   ```
-
-   :
+2. Serve the html to `localhost:8000`
 
    1. `cd output`
-   2. `python3 -m pelican.server`
+2. `python3 -m pelican.server`
 
 <br/>
 
@@ -238,3 +250,4 @@ Unless required by applicable law or agreed to in writing, software distributed 
 This project makes use of ATT&CK®
 
 [ATT&CK Terms of Use](https://attack.mitre.org/resources/terms-of-use/)
+
