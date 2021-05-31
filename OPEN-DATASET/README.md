@@ -55,6 +55,14 @@ db.getCollection("dictionary").find({ corpus: "Suzhou" });
 
 <br/>
 
+#### Existence Check
+
+```
+db.inventory.find( { item : { $exists: false } } )
+```
+
+<br/>
+
 #### Add field if conditions are correct
 
 ```
@@ -96,6 +104,8 @@ db.dictionary.updateMany(
 db.dictionary.deleteMany({ category: "filename-extensions" });
 db.dictionary.deleteMany({ category: "cve-ver-20061101" });
 db.dictionary.deleteMany({ category: "location-city" });
+db.dictionary.deleteMany({ category: "emails-in-the-article" });
+db.dictionary.deleteMany({ category: "ip-v4" });
 ```
 
 <br/>
