@@ -4,6 +4,12 @@
 
 ## # MongoDB
 
+*It does not disclose its vocabulary dictionary related to CTI, which is being developed secretly.*
+
+*However, the process of processing NLPs using a hand-crafted dictionary could be explored indirectly.*
+
+<br/>
+
 ### My Own Instructions
 
 #### db.collection.insertMany()
@@ -58,7 +64,7 @@ db.getCollection("dictionary").find({ corpus: "Suzhou" });
 #### Existence Check
 
 ```
-db.inventory.find( { item : { $exists: false } } )
+db.getCollection('dictionary').find({category:{$exists:false}})
 ```
 
 <br/>
@@ -106,6 +112,62 @@ db.dictionary.deleteMany({ category: "cve-ver-20061101" });
 db.dictionary.deleteMany({ category: "location-city" });
 db.dictionary.deleteMany({ category: "emails-in-the-article" });
 db.dictionary.deleteMany({ category: "ip-v4" });
+```
+
+<br/>
+
+#### Delete a Single Document
+
+```
+db.dictionary.deleteOne({ corpus: "go" });
+db.dictionary.deleteOne({ corpus: "March" });
+db.dictionary.deleteOne({ corpus: "We" });
+db.dictionary.deleteOne({ corpus: "As" });
+db.dictionary.deleteOne({ corpus: "Log" });
+db.dictionary.deleteOne({ corpus: "Media" });
+db.dictionary.deleteOne({ corpus: "Trail" });
+db.dictionary.deleteOne({ corpus: "August" });
+db.dictionary.deleteOne({ corpus: "Store" });
+db.dictionary.deleteOne({ corpus: "Most" });
+db.dictionary.deleteOne({ corpus: "Mobile" });
+db.dictionary.deleteOne({ corpus: "Justice" });
+db.dictionary.deleteOne({ corpus: "Man" });
+db.dictionary.deleteOne({ corpus: "Spring" });
+db.dictionary.deleteOne({ corpus: "SID" });
+db.dictionary.deleteOne({ corpus: "Lower" });
+db.dictionary.deleteOne({ corpus: "Upper" });
+db.dictionary.deleteOne({ corpus: "Talent" });
+db.dictionary.deleteOne({ corpus: "Baker" });
+db.dictionary.deleteOne({ corpus: "Beacon" });
+db.dictionary.deleteOne({ corpus: "March" });
+db.dictionary.deleteOne({ corpus: "Player" });
+db.dictionary.deleteOne({ corpus: "Tor" });
+db.dictionary.deleteOne({ corpus: "Police" });
+db.dictionary.deleteOne({ corpus: "January" });
+db.dictionary.deleteOne({ corpus: "February" });
+db.dictionary.deleteOne({ corpus: "April" });
+db.dictionary.deleteOne({ corpus: "May" });
+db.dictionary.deleteOne({ corpus: "June" });
+db.dictionary.deleteOne({ corpus: "July" });
+db.dictionary.deleteOne({ corpus: "August" });
+db.dictionary.deleteOne({ corpus: "September" });
+db.dictionary.deleteOne({ corpus: "October" });
+db.dictionary.deleteOne({ corpus: "November" });
+db.dictionary.deleteOne({ corpus: "December" });
+db.dictionary.deleteOne({ corpus: "Elon" });
+db.dictionary.deleteOne({ corpus: "Welcome" });
+db.dictionary.deleteOne({ corpus: "Denis" });
+db.dictionary.deleteOne({ corpus: "Obama" });
+db.dictionary.deleteOne({ corpus: "Of" });
+db.dictionary.deleteOne({ corpus: "Center" });
+db.dictionary.deleteOne({ corpus: "David" });
+db.dictionary.deleteOne({ corpus: "Save" });
+db.dictionary.deleteOne({ corpus: "netstat" });
+db.dictionary.deleteOne({ corpus: "Nice" });
+db.dictionary.deleteOne({ corpus: "Media" });
+db.dictionary.deleteOne({ corpus: "Jordan" });
+db.dictionary.deleteOne({ corpus: "TUR" });
+db.dictionary.deleteOne({ corpus: "Middle" });
 ```
 
 <br/>
